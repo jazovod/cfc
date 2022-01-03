@@ -1480,7 +1480,7 @@
         }
       ],
       "confFullName" : "Big East",
-      "confPrestige" : "72",
+      "confPrestige" : "52",
       "confName" : "EAST"
     },
     {
@@ -1727,7 +1727,7 @@
         }
       ],
       "confFullName" : "American",
-      "confPrestige" : "68",
+      "confPrestige" : "48",
       "confName" : "AAC"
     },
     {
@@ -1974,7 +1974,7 @@
         }
       ],
       "confFullName" : "Southwest",
-      "confPrestige" : "55",
+      "confPrestige" : "35",
       "confName" : "SWC"
     },
     {
@@ -2221,7 +2221,7 @@
         }
       ],
       "confFullName" : "Mountain West",
-      "confPrestige" : "50",
+      "confPrestige" : "30",
       "confName" : "MWC"
     },
     {
@@ -2468,7 +2468,7 @@
         }
       ],
       "confFullName" : "Sun Belt",
-      "confPrestige" : "46",
+      "confPrestige" : "26",
       "confName" : "SUN"
     },
     {
@@ -2715,7 +2715,7 @@
         }
       ],
       "confFullName" : "C-USA",
-      "confPrestige" : "36",
+      "confPrestige" : "16",
       "confName" : "CUSA"
     },
     {
@@ -2962,7 +2962,7 @@
         }
       ],
       "confFullName" : "MAC",
-      "confPrestige" : "43",
+      "confPrestige" : "23",
       "confName" : "MAC"
     }
   ],
