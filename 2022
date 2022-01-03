@@ -1480,7 +1480,7 @@
         }
       ],
       "confFullName" : "Big East",
-      "confPrestige" : "75",
+      "confPrestige" : "72",
       "confName" : "Big East"
     },
     {
@@ -2221,14 +2221,14 @@
         }
       ],
       "confFullName" : "Mountain West Conference",
-      "confPrestige" : "52",
+      "confPrestige" : "50",
       "confName" : "MWC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "APP",
-          "prestige" : "58",
+          "prestige" : "55",
           "hexColor" : "#000000",
           "rival" : "GS",
           "headCoach" : {
@@ -2348,23 +2348,23 @@
         },
         {
           "abbreviation" : "ULL",
-          "prestige" : "46",
+          "prestige" : "60",
           "hexColor" : "#A00B0B",
           "rival" : "AKSU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
             "age" : "40",
-            "ratOff" : "58",
+            "ratOff" : "70",
             "cumulativePrestige" : "0",
             "ratDef" : "66",
             "homeState" : "Tennessee",
             "ratPot" : "60",
-            "ratTalent" : "56",
-            "baselinePrestige" : "41",
+            "ratTalent" : "69",
+            "baselinePrestige" : "51",
             "ratDiscipline" : "75",
             "ratOvr" : "69",
-            "name" : "Billy Napier",
+            "name" : "Michael Desormeaux",
             "contractYear" : "0"
           },
           "name" : "Louisiana Lafayette",
@@ -2372,7 +2372,7 @@
         },
         {
           "abbreviation" : "CCU",
-          "prestige" : "45",
+          "prestige" : "58",
           "hexColor" : "#006F71",
           "rival" : "GSU",
           "headCoach" : {
@@ -2468,7 +2468,7 @@
         }
       ],
       "confFullName" : "Sun Belt",
-      "confPrestige" : "39",
+      "confPrestige" : "46",
       "confName" : "SUN"
     },
     {
