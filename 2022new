@@ -1481,7 +1481,7 @@
       ],
       "confFullName" : "Big East",
       "confPrestige" : "72",
-      "confName" : "Big East"
+      "confName" : "EAST"
     },
     {
       "confTeams" : [
@@ -2721,28 +2721,28 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "BUF",
-          "prestige" : "59",
-          "hexColor" : "#005BBB",
+          "abbreviation" : "CMU",
+          "prestige" : "51",
+          "hexColor" : "#6A0032",
           "rival" : "WMU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "56",
-            "ratOff" : "50",
+            "age" : "59",
+            "ratOff" : "75",
             "cumulativePrestige" : "0",
-            "ratDef" : "59",
-            "homeState" : "Wisconsin",
+            "ratDef" : "69",
+            "homeState" : "Montana",
             "ratPot" : "59",
-            "ratTalent" : "61",
+            "ratTalent" : "67",
             "baselinePrestige" : "45",
             "ratDiscipline" : "75",
-            "ratOvr" : "75",
-            "name" : "Lance Leipold",
+            "ratOvr" : "72",
+            "name" : "Jim McElwain",
             "contractYear" : "0"
           },
-          "name" : "Buffalo",
-          "state" : "New York"
+          "name" : "Central Michigan",
+          "state" : "Michigan"
         },
         {
           "abbreviation" : "NIU",
@@ -2819,7 +2819,7 @@
         {
           "abbreviation" : "WMU",
           "prestige" : "60",
-          "hexColor" : "#046A38",
+          "hexColor" : "#6C4023",
           "rival" : "BUF",
           "headCoach" : {
             "contractLength" : "4",
