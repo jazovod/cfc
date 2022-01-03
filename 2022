@@ -224,7 +224,7 @@
           "hexColor" : "#000000",
           "rival" : "TENN",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "8",
             "startYear" : "2020",
             "age" : "40",
             "ratOff" : "69",
@@ -550,7 +550,7 @@
           "hexColor" : "#861F41",
           "rival" : "UVA",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "7",
             "startYear" : "2020",
             "age" : "51",
             "ratOff" : "71",
@@ -718,7 +718,7 @@
           "hexColor" : "#232D4B",
           "rival" : "VT",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "8",
             "startYear" : "2020",
             "age" : "42",
             "ratOff" : "73",
@@ -775,7 +775,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "36",
+            "age" : "56",
             "ratOff" : "88",
             "cumulativePrestige" : "37",
             "ratDef" : "86",
@@ -870,7 +870,7 @@
           "hexColor" : "#C8102E",
           "rival" : "MIZZOU",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "39",
             "ratOff" : "83",
@@ -1045,7 +1045,7 @@
           "hexColor" : "#990000",
           "rival" : "STAN",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "10",
             "startYear" : "2020",
             "age" : "36",
             "ratOff" : "89",
@@ -1436,7 +1436,7 @@
           "hexColor" : "#8a100b",
           "rival" : "UCONN",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "42",
             "ratOff" : "61",
