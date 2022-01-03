@@ -2844,7 +2844,7 @@
           "abbreviation" : "TOL",
           "prestige" : "49",
           "hexColor" : "#003E7E",
-          "rival" : "BOWL",
+          "rival" : "BGSU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2913,7 +2913,7 @@
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "BOWL",
+          "abbreviation" : "BGSU",
           "prestige" : "42",
           "hexColor" : "#FF7300",
           "rival" : "TOL",
