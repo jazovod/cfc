@@ -198,7 +198,7 @@
           "abbreviation" : "AUB",
           "prestige" : "85",
           "hexColor" : "#03244D",
-          "rival" : "BAMA",
+          "rival" : "UGA",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -747,7 +747,7 @@
           "abbreviation" : "UT",
           "prestige" : "87",
           "hexColor" : "#BF5700",
-          "rival" : "TAM",
+          "rival" : "OU",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -837,7 +837,7 @@
             "name" : "Sonny Dykes",
             "contractYear" : "0"
           },
-          "name" : "Texas Christian",
+          "name" : "TCU",
           "state" : "Texas"
         },
         {
@@ -866,9 +866,9 @@
         },
         {
           "abbreviation" : "ISU",
-          "prestige" : "79",
+          "prestige" : "78",
           "hexColor" : "#C8102E",
-          "rival" : "TTEC",
+          "rival" : "MIZZOU",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -889,28 +889,28 @@
           "state" : "Iowa"
         },
         {
-          "abbreviation" : "TTEC",
-          "prestige" : "72",
-          "hexColor" : "#CC0000",
+          "abbreviation" : "MIZZOU",
+          "prestige" : "79",
+          "hexColor" : "#F1B82D",
           "rival" : "ISU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "46",
-            "ratOff" : "71",
-            "cumulativePrestige" : "0",
+            "age" : "38",
+            "ratOff" : "74",
+            "cumulativePrestige" : "3",
             "ratDef" : "68",
-            "homeState" : "South Carolina",
-            "ratPot" : "68",
-            "ratTalent" : "62",
+            "homeState" : "Oklahoma",
+            "ratPot" : "82",
+            "ratTalent" : "72",
             "baselinePrestige" : "70",
             "ratDiscipline" : "70",
-            "ratOvr" : "68",
-            "name" : "Matt Wells",
+            "ratOvr" : "72",
+            "name" : "Eli Drinkwitz",
             "contractYear" : "0"
           },
-          "name" : "Texas Tech",
-          "state" : "Texas"
+          "name" : "Missouri",
+          "state" : "Missouri"
         },
         {
           "abbreviation" : "OKSU",
@@ -940,7 +940,7 @@
           "abbreviation" : "KSU",
           "prestige" : "75",
           "hexColor" : "#512888",
-          "rival" : "KS",
+          "rival" : "KU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -961,7 +961,7 @@
           "state" : "Kansas"
         },
         {
-          "abbreviation" : "KS",
+          "abbreviation" : "KU",
           "prestige" : "65",
           "hexColor" : "#0051BA",
           "rival" : "KSU",
@@ -987,7 +987,7 @@
       ],
       "confFullName" : "Big 12",
       "confPrestige" : "93",
-      "confName" : "Big 12"
+      "confName" : "XII"
     },
     {
       "confTeams" : [
@@ -1234,7 +1234,7 @@
       ],
       "confFullName" : "Pac 12",
       "confPrestige" : "90",
-      "confName" : "PAC 12"
+      "confName" : "PAC"
     },
     {
       "confTeams" : [
@@ -1433,7 +1433,7 @@
         {
           "abbreviation" : "BC",
           "prestige" : "71",
-          "hexColor" : "#003591",
+          "hexColor" : "#8a100b",
           "rival" : "UCONN",
           "headCoach" : {
             "contractLength" : "2",
@@ -1507,7 +1507,7 @@
             "contractYear" : "0"
           },
           "name" : "UCF",
-          "state" : "Flordia"
+          "state" : "Florida"
         },
         {
           "abbreviation" : "USF",
