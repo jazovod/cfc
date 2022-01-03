@@ -1487,7 +1487,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "68",
+          "prestige" : "74",
           "hexColor" : "#B7A369",
           "rival" : "USF",
           "headCoach" : {
@@ -1511,7 +1511,7 @@
         },
         {
           "abbreviation" : "USF",
-          "prestige" : "61",
+          "prestige" : "64",
           "hexColor" : "#006747",
           "rival" : "UCF",
           "headCoach" : {
@@ -1607,7 +1607,7 @@
         },
         {
           "abbreviation" : "NAVY",
-          "prestige" : "69",
+          "prestige" : "67",
           "hexColor" : "#000048",
           "rival" : "ARMY",
           "headCoach" : {
@@ -1655,7 +1655,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "66",
+          "prestige" : "69",
           "hexColor" : "#354CA1",
           "rival" : "HOU",
           "headCoach" : {
@@ -1734,7 +1734,7 @@
       "confTeams" : [
         {
           "abbreviation" : "ARIZ",
-          "prestige" : "73",
+          "prestige" : "75",
           "hexColor" : "#003366",
           "rival" : "ASU",
           "headCoach" : {
@@ -2722,9 +2722,9 @@
       "confTeams" : [
         {
           "abbreviation" : "BUF",
-          "prestige" : "63",
+          "prestige" : "59",
           "hexColor" : "#005BBB",
-          "rival" : "EMI",
+          "rival" : "WMU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2746,7 +2746,7 @@
         },
         {
           "abbreviation" : "NIU",
-          "prestige" : "45",
+          "prestige" : "54",
           "hexColor" : "#C8102E",
           "rival" : "BALL",
           "headCoach" : {
@@ -2813,31 +2813,31 @@
             "name" : "Frank Solich",
             "contractYear" : "0"
           },
-          "name" : "Ohio University",
+          "name" : "Ohio",
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "EMU",
+          "abbreviation" : "WMU",
           "prestige" : "60",
           "hexColor" : "#046A38",
           "rival" : "BUF",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
-            "age" : "51",
-            "ratOff" : "55",
+            "age" : "44",
+            "ratOff" : "73",
             "cumulativePrestige" : "0",
-            "ratDef" : "57",
-            "homeState" : "California",
-            "ratPot" : "60",
-            "ratTalent" : "50",
+            "ratDef" : "67",
+            "homeState" : "Illinois",
+            "ratPot" : "78",
+            "ratTalent" : "70",
             "baselinePrestige" : "41",
             "ratDiscipline" : "70",
-            "ratOvr" : "64",
-            "name" : "Chris Creighton",
+            "ratOvr" : "70",
+            "name" : "Tim Lest",
             "contractYear" : "0"
           },
-          "name" : "Eastern Michigan",
+          "name" : "Western Michigan",
           "state" : "Michigan"
         },
         {
@@ -2866,7 +2866,7 @@
         },
         {
           "abbreviation" : "BALL",
-          "prestige" : "42",
+          "prestige" : "44",
           "hexColor" : "#BAOC2F",
           "rival" : "NIU",
           "headCoach" : {
@@ -2914,7 +2914,7 @@
         },
         {
           "abbreviation" : "BOWL",
-          "prestige" : "40",
+          "prestige" : "42",
           "hexColor" : "#FF7300",
           "rival" : "TOL",
           "headCoach" : {
