@@ -10,7 +10,7 @@
           "headCoach" : {
             "contractLength": "9",
             "startYear" : "2020",
-            "age": "67",
+            "age": "70",
             "ratOff" : "99",
             "cumulativePrestige" : "1000",
             "ratDef": "99",
@@ -198,7 +198,7 @@
           "abbreviation" : "AUB",
           "prestige" : "85",
           "hexColor" : "#03244D",
-          "rival" : "BAMA",
+          "rival" : "UGA",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -747,7 +747,7 @@
           "abbreviation" : "UT",
           "prestige" : "87",
           "hexColor" : "#BF5700",
-          "rival" : "TAM",
+          "rival" : "OU",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -837,7 +837,7 @@
             "name" : "Sonny Dykes",
             "contractYear" : "0"
           },
-          "name" : "Texas Christian",
+          "name" : "TCU",
           "state" : "Texas"
         },
         {
@@ -866,9 +866,9 @@
         },
         {
           "abbreviation" : "ISU",
-          "prestige" : "79",
+          "prestige" : "78",
           "hexColor" : "#C8102E",
-          "rival" : "TTEC",
+          "rival" : "MIZZOU",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -889,28 +889,28 @@
           "state" : "Iowa"
         },
         {
-          "abbreviation" : "TTEC",
-          "prestige" : "72",
-          "hexColor" : "#CC0000",
-          "rival" : "ISU",
+          "abbreviation" : "MIZZOU",
+          "prestige" : "79",
+          "hexColor" : "#F1B82D",
+          "rival" : "KU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "46",
-            "ratOff" : "71",
-            "cumulativePrestige" : "0",
+            "age" : "38",
+            "ratOff" : "74",
+            "cumulativePrestige" : "3",
             "ratDef" : "68",
-            "homeState" : "South Carolina",
-            "ratPot" : "68",
-            "ratTalent" : "62",
+            "homeState" : "Oklahoma",
+            "ratPot" : "82",
+            "ratTalent" : "72",
             "baselinePrestige" : "70",
             "ratDiscipline" : "70",
-            "ratOvr" : "68",
-            "name" : "Matt Wells",
+            "ratOvr" : "72",
+            "name" : "Eli Drinkwitz",
             "contractYear" : "0"
           },
-          "name" : "Texas Tech",
-          "state" : "Texas"
+          "name" : "Missouri",
+          "state" : "Missouri"
         },
         {
           "abbreviation" : "OKSU",
@@ -940,7 +940,7 @@
           "abbreviation" : "KSU",
           "prestige" : "75",
           "hexColor" : "#512888",
-          "rival" : "KS",
+          "rival" : "KU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -961,7 +961,7 @@
           "state" : "Kansas"
         },
         {
-          "abbreviation" : "KS",
+          "abbreviation" : "KU",
           "prestige" : "65",
           "hexColor" : "#0051BA",
           "rival" : "KSU",
@@ -987,7 +987,7 @@
       ],
       "confFullName" : "Big 12",
       "confPrestige" : "93",
-      "confName" : "Big 12"
+      "confName" : "XII"
     },
     {
       "confTeams" : [
@@ -995,7 +995,7 @@
           "abbreviation" : "CAL",
           "prestige" : "75",
           "hexColor" : "#003262",
-          "rival" : "STAN",
+          "rival" : "UCLA",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -1043,7 +1043,7 @@
           "abbreviation" : "USC",
           "prestige" : "86",
           "hexColor" : "#990000",
-          "rival" : "UCLA",
+          "rival" : "STAN",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -1187,7 +1187,7 @@
           "abbreviation" : "UTAH",
           "prestige" : "81",
           "hexColor" : "#CC0000",
-          "rival" : "ASU",
+          "rival" : "BYU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -1234,7 +1234,7 @@
       ],
       "confFullName" : "Pac 12",
       "confPrestige" : "90",
-      "confName" : "PAC 12"
+      "confName" : "PAC"
     },
     {
       "confTeams" : [
@@ -1433,7 +1433,7 @@
         {
           "abbreviation" : "BC",
           "prestige" : "71",
-          "hexColor" : "#003591",
+          "hexColor" : "#8a100b",
           "rival" : "UCONN",
           "headCoach" : {
             "contractLength" : "2",
@@ -1481,7 +1481,7 @@
       ],
       "confFullName" : "Big East",
       "confPrestige" : "72",
-      "confName" : "Big East"
+      "confName" : "EAST"
     },
     {
       "confTeams" : [
@@ -1507,7 +1507,7 @@
             "contractYear" : "0"
           },
           "name" : "UCF",
-          "state" : "Flordia"
+          "state" : "Florida"
         },
         {
           "abbreviation" : "USF",
@@ -2721,28 +2721,28 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "BUF",
-          "prestige" : "59",
-          "hexColor" : "#005BBB",
+          "abbreviation" : "CMU",
+          "prestige" : "51",
+          "hexColor" : "#6A0032",
           "rival" : "WMU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "56",
-            "ratOff" : "50",
+            "age" : "59",
+            "ratOff" : "75",
             "cumulativePrestige" : "0",
-            "ratDef" : "59",
-            "homeState" : "Wisconsin",
+            "ratDef" : "69",
+            "homeState" : "Montana",
             "ratPot" : "59",
-            "ratTalent" : "61",
+            "ratTalent" : "67",
             "baselinePrestige" : "45",
             "ratDiscipline" : "75",
-            "ratOvr" : "75",
-            "name" : "Lance Leipold",
+            "ratOvr" : "72",
+            "name" : "Jim McElwain",
             "contractYear" : "0"
           },
-          "name" : "Buffalo",
-          "state" : "New York"
+          "name" : "Central Michigan",
+          "state" : "Michigan"
         },
         {
           "abbreviation" : "NIU",
@@ -2819,7 +2819,7 @@
         {
           "abbreviation" : "WMU",
           "prestige" : "60",
-          "hexColor" : "#046A38",
+          "hexColor" : "#6C4023",
           "rival" : "BUF",
           "headCoach" : {
             "contractLength" : "4",
@@ -2978,7 +2978,7 @@
   "Alamo Bowl",
   "Outback Bowl",
   "Las Vegas Bowl",
-  "Holiday",
+  "Holiday Bowl",
   "Liberty Bowl",
   "Cheez-It Bowl",
   "Music City Bowl",
