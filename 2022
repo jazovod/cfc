@@ -11,15 +11,15 @@
             "contractLength": "9",
             "startYear" : "2020",
             "age": "67",
-            "ratOff" : "93",
+            "ratOff" : "99",
             "cumulativePrestige" : "1000",
-            "ratDef": "97",
+            "ratDef": "99",
             "homeState" : "West Virginia",
-            "ratPot" : "80",
-            "ratTalent" : "95",
+            "ratPot" : "99",
+            "ratTalent" : "99",
             "baselinePrestige" : "70",
             "ratDiscipline": "97",
-            "ratOvr" : "95",
+            "ratOvr" : "99",
             "name" : "Nick Saban",
             "contractYear" : "0"
           },
@@ -2220,7 +2220,7 @@
           "state" : "Colorado"
         }
       ],
-      "confFullName" : "Mountain West Conference",
+      "confFullName" : "Mountain West",
       "confPrestige" : "50",
       "confName" : "MWC"
     },
@@ -2714,7 +2714,7 @@
           "state" : "Louisiana"
         }
       ],
-      "confFullName" : "Conference USA",
+      "confFullName" : "C-USA",
       "confPrestige" : "36",
       "confName" : "CUSA"
     },
@@ -2961,7 +2961,7 @@
           "state" : "Ohio"
         }
       ],
-      "confFullName" : "Middle American",
+      "confFullName" : "MAC",
       "confPrestige" : "43",
       "confName" : "MAC"
     }
