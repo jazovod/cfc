@@ -34,7 +34,12 @@
 						"name": "Pete Golding",
 						"contractYear": "0"
 					},
-          "rival": "AUB",
+          "rival" : ["AUB", "TEN", "LSU"],
+          "rivalryNames" : {
+            "AUB": "Iron Bowl",
+            "TEN": "3rd Saturday of October",
+            "LSU": "Saban Bowl",
+          },
           "headCoach" : {
             "contractLength": "9",
             "startYear" : "2022",
@@ -138,7 +143,11 @@
 						"name": "Patrick Toney",
 						"contractYear": "0"
 					},
-          "rival" : "FSU",
+          "rival" : ["UGA", "MIA", "FSU"],
+          "rivalryNames" : {
+            "FSU": "Sunshine Showdown",
+            "UGA": "World's Largest Cocktail Party",
+            "MIA": "Seminole War Canoe",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
@@ -242,7 +251,11 @@
 						"name": "Daronte Jones",
 						"contractYear": "0"
 					},
-          "rival" : "ARK",
+          "rival" : ["ALA", "AUB","ARK"],
+          "rivalryNames" : {
+            "ALA": "Saban Bowl",
+            "ARK": "Battle for the Golden Boot",
+            "AUB": "Tiger Bowl",
           "headCoach" : {
             "contractLength" : "10",
             "startYear" : "2022",
@@ -266,7 +279,10 @@
           "abbreviation" : "MISS",
           "prestige" : "78",
           "hexColor" : "#14213D",
-          "rival" : "MSST",
+          "rival" : ["MSST", "LSU"],
+          "rivalryNames" : {
+            "LSU": "Magnolia Bowl",
+            "MSST": "Egg Bowl",
           "offCoordinator": {
 						"contractlength": "7",
 						"startYear": "2022",
@@ -422,7 +438,11 @@
 						"name": "Derek Mason",
 						"contractYear": "0"
 					},
-          "rival" : "UGA",
+          "rival" : ["LSU", "UGA", "ALA"],
+          "rivalryNames" : {
+            "ALA": "Iron Bowl",
+            "UGA": "Deep South's Oldest Rivalry",
+            "LSU": "Tiger Bowl",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2022",
@@ -505,7 +525,11 @@
 						"name": "Mike MacDonald",
 						"contractYear": "0"
 					},
-          "rival" : "MSU",
+          "rival" : ["OSU", "ND", "MSU", "MIN"],
+          "rivalryNames" : {
+            "OSU": "The Game",
+            "MSU": "Battle for the Paul Bunyan Trophy",
+            "MIN": "Battle for the Little Brown Jug",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -557,7 +581,11 @@
 						"name": "Scottie Hazelton",
 						"contractYear": "0"
 					},
-          "rival" : "PSU",
+          "rival" : ["PSU", "ND", "UM"],
+          "rivalryNames" : {
+            "UM": "Battle for the Paul Bunyan Trophy",
+            "ND": "Battle for the Megaphone",
+            "PSU": "Battle for the Land Grant Trophy",
           "headCoach" : {
             "contractLength" : "11",
             "startYear" : "2022",
@@ -609,7 +637,7 @@
 						"name": "Kerry Coombs",
 						"contractYear": "0"
 					},
-          "rival" : "UM",
+          "rival" : ["UM", "PSU"],
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2022",
@@ -709,7 +737,12 @@
           "abbreviation" : "WIS",
           "prestige" : "84",
           "hexColor" : "#C5050C",
-          "rival" : "MINN",
+          "rival" : ["IOWA", "MIN", "NEB"],
+          "rivalryNames" : {
+            "IOWA": "Battle for the Heartland Trophy",
+            "MIN": "Battle for Paul Bunyan's Axe",
+            "NEB": "Battle for the Freedom Trophy",
+            },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -761,7 +794,13 @@
 						"name": "Phil Parker",
 						"contractYear": "0"
 					},
-          "rival" : "NEB",
+          "rival" : ["WIS", "NEB", "ISU", "MIN"],
+          "rivalryNames" : {
+            "WIS": "Battle for the Heartland Trophy",
+            "MIN": "Battle for the Floyd of Rosedale",
+            "ISU": "Battle for the Cy-Hawk Trophy",
+            "NEB": "The Heroes Game",
+            },
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2022",
@@ -809,7 +848,11 @@
           "abbreviation" : "PUR",
           "prestige" : "73",
           "hexColor" : "#CFB991",
-          "rival" : "NW",
+          "rival" : ["IU", "ND"],
+          "rivalryNames" : {
+            "IU": "Battle for the Old Oaken Bucket",
+            "ND": "Battle for the Shillelagh Trophy",
+          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -893,6 +936,7 @@
 						"contractYear": "0"
 					},
           "rival" : "SC",
+          
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2022",
