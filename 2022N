@@ -1517,7 +1517,7 @@
           "abbreviation" : "TCU",
           "prestige" : "78",
           "hexColor" : "#4D1979",
-          "rival" : ["BAY", "SMU"],
+          "rival" : ["BAYL", "SMU"],
           "rivalryNames" : {
             "BAYL": "Holy War",
             "SMU": "Battle for the Iron Skillet",
@@ -3017,7 +3017,7 @@
           "state" : "California"
         },
         {
-          "abbreviation" : "JOSE",
+          "abbreviation" : "SJSU",
           "prestige" : "40",
           "hexColor" : "#0055A2",
           "rival" : "HI",
@@ -3044,7 +3044,7 @@
           "abbreviation" : "HI",
           "prestige" : "42",
           "hexColor" : "#024731",
-          "rival" : "JOSE",
+          "rival" : "SJSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
