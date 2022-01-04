@@ -148,6 +148,7 @@
             "FSU": "Sunshine Showdown",
             "UGA": "World's Largest Cocktail Party",
             "MIA": "Seminole War Canoe",
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
@@ -256,6 +257,7 @@
             "ALA": "Saban Bowl",
             "ARK": "Battle for the Golden Boot",
             "AUB": "Tiger Bowl",
+          },
           "headCoach" : {
             "contractLength" : "10",
             "startYear" : "2022",
@@ -283,6 +285,7 @@
           "rivalryNames" : {
             "LSU": "Magnolia Bowl",
             "MSST": "Egg Bowl",
+          },
           "offCoordinator": {
 						"contractlength": "7",
 						"startYear": "2022",
@@ -443,6 +446,7 @@
             "ALA": "Iron Bowl",
             "UGA": "Deep South's Oldest Rivalry",
             "LSU": "Tiger Bowl",
+          },
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2022",
@@ -530,6 +534,7 @@
             "OSU": "The Game",
             "MSU": "Battle for the Paul Bunyan Trophy",
             "MIN": "Battle for the Little Brown Jug",
+          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -586,6 +591,7 @@
             "UM": "Battle for the Paul Bunyan Trophy",
             "ND": "Battle for the Megaphone",
             "PSU": "Battle for the Land Grant Trophy",
+          },
           "headCoach" : {
             "contractLength" : "11",
             "startYear" : "2022",
