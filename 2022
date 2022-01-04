@@ -868,7 +868,7 @@
           "abbreviation" : "ISU",
           "prestige" : "78",
           "hexColor" : "#C8102E",
-          "rival" : "MIZZOU",
+          "rival" : "MIZ",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -889,7 +889,7 @@
           "state" : "Iowa"
         },
         {
-          "abbreviation" : "MIZZOU",
+          "abbreviation" : "MIZ",
           "prestige" : "79",
           "hexColor" : "#F1B82D",
           "rival" : "KU",
