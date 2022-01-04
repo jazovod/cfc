@@ -390,6 +390,12 @@
           "abbreviation" : "MSST",
           "prestige" : "76",
           "hexColor" : "#660000",
+          "offCoordinator": {
+            "name": "Mason Miller",
+          },
+          "defCoordinator": {
+            "name": "Zach Arnett",
+          },
           "rival" : "MISS",
           "headCoach" : {
             "contractLength" : "7",
@@ -470,7 +476,13 @@
         {
           "abbreviation" : "VAND",
           "prestige" : "71",
-          "hexColor" : "#000000",
+          "hexColor" : "#866D4B",
+          "offCoordinator": {
+            "name": "David Raih",
+          },
+          "defCoordinator": {
+            "name": "Jesse Minter",
+          },
           "rival" : "TENN",
           "headCoach" : {
             "contractLength" : "8",
@@ -724,6 +736,13 @@
           "abbreviation" : "MINN",
           "prestige" : "78",
           "hexColor" : "#7A0019",
+          "offCoordinator": {
+            "name": "Matt Simon",
+          },
+          "defCoordinator": {
+            "name": "Joe Rossi",
+            "coachingAbility": "85",
+          },
           "rival" : "WIS",
           "headCoach" : {
             "contractLength" : "6",
@@ -748,6 +767,12 @@
           "abbreviation" : "WIS",
           "prestige" : "84",
           "hexColor" : "#C5050C",
+          "offCoordinator": {
+            "name": "David Raih",
+          },
+          "defCoordinator": {
+            "name": "Jim Leonhard",
+          },
           "rival" : ["IOWA", "MIN", "NEB"],
           "rivalryNames" : {
             "IOWA": "Battle for the Heartland Trophy",
