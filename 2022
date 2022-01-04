@@ -1266,7 +1266,7 @@
           "hexColor" : "#154734",
           "rival" : "TCU",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "7",
             "startYear" : "2020",
             "age" : "46",
             "ratOff" : "74",
@@ -1517,7 +1517,7 @@
           "hexColor" : "#2774AE",
           "rival" : "USC",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "55",
             "ratOff" : "88",
@@ -1526,7 +1526,7 @@
             "homeState" : "New Hampshire",
             "ratPot" : "55",
             "ratTalent" : "76",
-            "baselinePrestige" : "80",
+            "baselinePrestige" : "74",
             "ratDiscipline" : "90",
             "ratOvr" : "78",
             "name" : "Chip Kelly",
@@ -1860,7 +1860,7 @@
           "hexColor" : "#0033A0",
           "rival" : "LOU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "7",
             "startYear" : "2020",
             "age" : "54",
             "ratOff" : "74",
