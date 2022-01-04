@@ -7,7 +7,7 @@
           "prestige": "95",
           "hexColor" : "A60C31",
           "offCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "52",
 						"cumulativePrestige": "0",
@@ -59,7 +59,7 @@
           "prestige" : "90",
           "hexColor" : "#BA0C2F",
           "offCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "55",
 						"cumulativePrestige": "0",
@@ -73,7 +73,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "50",
 						"cumulativePrestige": "0",
@@ -111,7 +111,7 @@
           "prestige" : "87",
           "hexColor" : "#0021A5",
           "offCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "42",
 						"cumulativePrestige": "0",
@@ -125,7 +125,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "30",
 						"cumulativePrestige": "0",
@@ -163,7 +163,7 @@
           "prestige" : "82",
           "hexColor" : "#FF8200",
           "offCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "37",
 						"cumulativePrestige": "0",
@@ -177,7 +177,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "50",
 						"cumulativePrestige": "0",
@@ -215,7 +215,7 @@
           "prestige" : "89",
           "hexColor" : "#461D7C",
           "offCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "38",
 						"cumulativePrestige": "0",
@@ -229,7 +229,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "43",
 						"cumulativePrestige": "0",
@@ -268,7 +268,7 @@
           "hexColor" : "#14213D",
           "rival" : "MSST",
           "offCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "43",
 						"cumulativePrestige": "0",
@@ -282,7 +282,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "43",
 						"cumulativePrestige": "0",
@@ -318,6 +318,34 @@
           "abbreviation" : "ARK",
           "prestige" : "73",
           "hexColor" : "#9D2235",
+          "offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "39",
+						"cumulativePrestige": "0",
+						"homeState": "New Mexico",
+						"ratPot": "77",
+						"hometown": "Kirtland",
+						"ratTalent": "78",
+						"baselinePrestige": "60",
+						"coachingAbility": "76",
+						"name": "Kendal Briles",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "45",
+						"cumulativePrestige": "0",
+						"homeState": "Missouri",
+						"ratPot": "73",
+						"hometown": "Neelyville",
+						"ratTalent": "71",
+						"baselinePrestige": "60",
+						"coachingAbility": "70",
+						"name": "Barry Odom",
+						"contractYear": "0"
+					},
           "rival" : "LSU",
           "headCoach" : {
             "contractLength" : "4",
@@ -367,7 +395,7 @@
           "prestige" : "85",
           "hexColor" : "#03244D",
           "offCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "47",
 						"cumulativePrestige": "0",
@@ -381,7 +409,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "51",
 						"cumulativePrestige": "0",
@@ -516,7 +544,7 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "3",
+						"contractlength": "7",
 						"startYear": "2022",
 						"age": "48",
 						"cumulativePrestige": "0",
@@ -605,6 +633,34 @@
           "abbreviation" : "PSU",
           "prestige" : "88",
           "hexColor" : "#001E44",
+          "offCoordinator": {
+						"contractLength": "5",
+						"startYear": "2022",
+						"age": "46",
+						"cumulativePrestige": "0",
+						"homeState": "North Carolina",
+						"ratPot": "52",
+						"hometown": "Maiden",
+						"ratTalent": "75",
+						"baselinePrestige": "80",
+						"coachingAbility": "78",
+						"name": "Mike Yurcich",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2022",
+						"age": "47",
+						"cumulativePrestige": "0",
+						"homeState": "Florida",
+						"ratPot": "66",
+						"hometown": "Miami",
+						"ratTalent": "84",
+						"baselinePrestige": "80",
+						"coachingAbility": "88",
+						"name": "Manny Diaz",
+						"contractYear": "0"
+					},
           "rival" : "MSU",
           "headCoach" : {
             "contractLength" : "3",
@@ -677,6 +733,34 @@
           "abbreviation" : "IOWA",
           "prestige" : "81",
           "hexColor" : "#000000",
+          "offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "38",
+						"cumulativePrestige": "0",
+						"homeState": "Missouri",
+						"ratPot": "52",
+						"hometown": "Bunceton",
+						"ratTalent": "67",
+						"baselinePrestige": "70",
+						"coachingAbility": "47",
+						"name": "Brian Ferentz",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "58",
+						"cumulativePrestige": "0",
+						"homeState": "Florida",
+						"ratPot": "58",
+						"hometown": "Homosassa Springs",
+						"ratTalent": "79",
+						"baselinePrestige": "70",
+						"coachingAbility": "81",
+						"name": "Phil Parker",
+						"contractYear": "0"
+					},
           "rival" : "NEB",
           "headCoach" : {
             "contractLength" : "7",
@@ -904,6 +988,34 @@
           "abbreviation" : "FSU",
           "prestige" : "83",
           "hexColor" : "#782F40",
+          "offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "40",
+						"cumulativePrestige": "0",
+						"homeState": "Indiana",
+						"ratPot": "83",
+						"hometown": "Kokomo",
+						"ratTalent": "68",
+						"baselinePrestige": "70",
+						"coachingAbility": "70",
+						"name": "Alex Atkins",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "55",
+						"cumulativePrestige": "0",
+						"homeState": "DC",
+						"ratPot": "64",
+						"hometown": "Washington",
+						"ratTalent": "72",
+						"baselinePrestige": "70",
+						"coachingAbility": "77",
+						"name": "Randy Shannon",
+						"contractYear": "0"
+					},
           "rival" : "MIA",
           "headCoach" : {
             "contractLength" : "6",
@@ -928,6 +1040,34 @@
           "abbreviation" : "MIA",
           "prestige" : "81",
           "hexColor" : "#005030",
+          "offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "38",
+						"cumulativePrestige": "0",
+						"homeState": "Texas",
+						"ratPot": "76",
+						"hometown": "Pilot Point",
+						"ratTalent": "75",
+						"baselinePrestige": "75",
+						"coachingAbility": "73",
+						"name": "Bryan McClendon",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "46",
+						"cumulativePrestige": "0",
+						"homeState": "Florida",
+						"ratPot": "65",
+						"hometown": "Homestead",
+						"ratTalent": "69",
+						"baselinePrestige": "75",
+						"coachingAbility": "77",
+						"name": "Joe Salavea",
+						"contractYear": "0"
+					},
           "rival" : "FSU",
           "headCoach" : {
             "contractLength" : "5",
@@ -939,7 +1079,7 @@
             "homeState" : "Florida",
             "ratPot" : "74",
             "ratTalent" : "82",
-            "baselinePrestige" : "78",
+            "baselinePrestige" : "73",
             "ratDiscipline" : "73",
             "ratOvr" : "81",
             "name" : "Mario Cristobal",
@@ -976,6 +1116,34 @@
           "abbreviation" : "UNC",
           "prestige" : "79",
           "hexColor" : "#4B9CD3",
+          "offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "53",
+						"cumulativePrestige": "0",
+						"homeState": "New Jersey",
+						"ratPot": "63",
+						"hometown": "Red Bank",
+						"ratTalent": "77",
+						"baselinePrestige": "74",
+						"coachingAbility": "81",
+						"name": "Phil Longo",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "50",
+						"cumulativePrestige": "0",
+						"homeState": "Arkansas",
+						"ratPot": "62",
+						"hometown": "El Dorado",
+						"ratTalent": "75",
+						"baselinePrestige": "74",
+						"coachingAbility": "75",
+						"name": "Tommy Thigpen",
+						"contractYear": "1"
+					},
           "rival" : "NCST",
           "headCoach" : {
             "contractLength" : "5",
@@ -1264,6 +1432,34 @@
           "abbreviation" : "BAYL",
           "prestige" : "83",
           "hexColor" : "#154734",
+          "offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "53",
+						"cumulativePrestige": "0",
+						"homeState": "Texas",
+						"ratPot": "70",
+						"hometown": "Garland",
+						"ratTalent": "77",
+						"baselinePrestige": "75",
+						"coachingAbility": "73",
+						"name": "Jeff Grimes",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "54",
+						"cumulativePrestige": "0",
+						"homeState": "California",
+						"ratPot": "61",
+						"hometown": "Visalia",
+						"ratTalent": "84",
+						"baselinePrestige": "75",
+						"coachingAbility": "88",
+						"name": "Ron Roberts",
+						"contractYear": "0"
+					},
           "rival" : "TCU",
           "headCoach" : {
             "contractLength" : "7",
@@ -1336,6 +1532,34 @@
           "abbreviation" : "OKSU",
           "prestige" : "82",
           "hexColor" : "#FE5C00",
+          "offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "52",
+						"cumulativePrestige": "0",
+						"homeState": "Texas",
+						"ratPot": "67",
+						"hometown": "Moody",
+						"ratTalent": "78",
+						"baselinePrestige": "75",
+						"coachingAbility": "82",
+						"name": "Kasey Dunn",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "56",
+						"cumulativePrestige": "0",
+						"homeState": "Nebraska",
+						"ratPot": "66",
+						"hometown": "Holdrege",
+						"ratTalent": "82",
+						"baselinePrestige": "75",
+						"coachingAbility": "84",
+						"name": "Jim Knowles",
+						"contractYear": "0"
+					},
           "rival" : "OU",
           "headCoach" : {
             "contractLength" : "7",
@@ -1539,6 +1763,34 @@
           "abbreviation" : "ORE",
           "prestige" : "86",
           "hexColor" : "#036936",
+          "offCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "31",
+						"cumulativePrestige": "0",
+						"homeState": "Arizona",
+						"ratPot": "80",
+						"hometown": "Phoenix",
+						"ratTalent": "70",
+						"baselinePrestige": "80",
+						"coachingAbility": "77",
+						"name": "Kenny Dillingham",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "34",
+						"cumulativePrestige": "0",
+						"homeState": "Texas",
+						"ratPot": "77",
+						"hometown": "Huntsville",
+						"ratTalent": "79",
+						"baselinePrestige": "80",
+						"coachingAbility": "69",
+						"name": "Matt Powledge",
+						"contractYear": "0"
+					},
           "rival" : "ORST",
           "headCoach" : {
             "contractLength" : "4",
