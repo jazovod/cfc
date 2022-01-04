@@ -1928,7 +1928,7 @@
         }
       ],
       "confFullName" : "Big East",
-      "confPrestige" : "52",
+      "confPrestige" : "42",
       "confName" : "EAST"
     },
     {
@@ -2175,7 +2175,7 @@
         }
       ],
       "confFullName" : "American",
-      "confPrestige" : "48",
+      "confPrestige" : "38",
       "confName" : "AAC"
     },
     {
@@ -2422,7 +2422,7 @@
         }
       ],
       "confFullName" : "Southwest",
-      "confPrestige" : "35",
+      "confPrestige" : "25",
       "confName" : "SWC"
     },
     {
@@ -2916,7 +2916,7 @@
         }
       ],
       "confFullName" : "Sun Belt",
-      "confPrestige" : "26",
+      "confPrestige" : "16",
       "confName" : "SUN"
     },
     {
@@ -3163,7 +3163,7 @@
         }
       ],
       "confFullName" : "C-USA",
-      "confPrestige" : "16",
+      "confPrestige" : "6",
       "confName" : "CUSA"
     },
     {
@@ -3410,7 +3410,7 @@
         }
       ],
       "confFullName" : "MAC",
-      "confPrestige" : "23",
+      "confPrestige" : "13",
       "confName" : "MAC"
     }
   ],
