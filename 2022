@@ -2322,7 +2322,7 @@
           "hexColor" : "#8a100b",
           "rival" : "UCONN",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "6",
             "startYear" : "2022",
             "age" : "42",
             "ratOff" : "61",
@@ -2828,7 +2828,7 @@
           "hexColor" : "#00853E",
           "rival" : "UTEP",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2022",
             "age" : "43",
             "ratOff" : "69",
@@ -3003,7 +3003,7 @@
           "hexColor" : "#003366",
           "rival" : "UNLV",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2022",
             "age" : "60",
             "ratOff" : "65",
@@ -3226,7 +3226,7 @@
           "hexColor" : "#CCO92F",
           "rival" : "ULL",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2022",
             "age" : "51",
             "ratOff" : "80",
