@@ -8,7 +8,7 @@
           "hexColor" : "A60C31",
           "offCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "52",
 						"cumulativePrestige": "0",
 						"homeState": "Louisiana",
@@ -22,7 +22,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "4",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "37",
 						"cumulativePrestige": "0",
 						"homeState": "Nevada",
@@ -37,7 +37,7 @@
           "rival": "AUB",
           "headCoach" : {
             "contractLength": "9",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age": "70",
             "ratOff" : "99",
             "cumulativePrestige" : "1000",
@@ -60,7 +60,7 @@
           "hexColor" : "#BA0C2F",
           "offCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "55",
 						"cumulativePrestige": "0",
 						"homeState": "Georgia",
@@ -74,7 +74,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "50",
 						"cumulativePrestige": "0",
 						"homeState": "Georgia",
@@ -89,7 +89,7 @@
           "rival" : "UF",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "46",
             "ratOff" : "86",
             "cumulativePrestige" : "30",
@@ -112,7 +112,7 @@
           "hexColor" : "#0021A5",
           "offCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "42",
 						"cumulativePrestige": "0",
 						"homeState": "Vermont",
@@ -126,7 +126,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "30",
 						"cumulativePrestige": "0",
 						"homeState": "Alaska",
@@ -141,7 +141,7 @@
           "rival" : "FSU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "52",
             "ratOff" : "82",
             "cumulativePrestige" : "9",
@@ -164,7 +164,7 @@
           "hexColor" : "#FF8200",
           "offCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "37",
 						"cumulativePrestige": "0",
 						"homeState": "Virginia",
@@ -178,7 +178,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "50",
 						"cumulativePrestige": "0",
 						"homeState": "Louisiana",
@@ -193,7 +193,7 @@
           "rival" : "VAND",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "43",
             "ratOff" : "78",
             "cumulativePrestige" : "3",
@@ -216,7 +216,7 @@
           "hexColor" : "#461D7C",
           "offCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "38",
 						"cumulativePrestige": "0",
 						"homeState": "South Dakota",
@@ -230,7 +230,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "43",
 						"cumulativePrestige": "0",
 						"homeState": "Nebraska",
@@ -245,7 +245,7 @@
           "rival" : "ARK",
           "headCoach" : {
             "contractLength" : "10",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "84",
             "cumulativePrestige" : "4",
@@ -269,7 +269,7 @@
           "rival" : "MSST",
           "offCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "43",
 						"cumulativePrestige": "0",
 						"homeState": "Alabama",
@@ -283,7 +283,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "43",
 						"cumulativePrestige": "0",
 						"homeState": "Ohio",
@@ -297,7 +297,7 @@
 					},
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "47",
             "ratOff" : "85",
             "cumulativePrestige" : "10",
@@ -321,7 +321,7 @@
           "rival" : "LSU",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "80",
             "cumulativePrestige" : "0",
@@ -345,7 +345,7 @@
           "rival" : "MISS",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "61",
             "ratOff" : "81",
             "cumulativePrestige" : "40",
@@ -368,7 +368,7 @@
           "hexColor" : "#03244D",
           "offCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "47",
 						"cumulativePrestige": "0",
 						"homeState": "Ohio",
@@ -382,7 +382,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "51",
 						"cumulativePrestige": "0",
 						"homeState": "Missouri",
@@ -397,7 +397,7 @@
           "rival" : "UGA",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "45",
             "ratOff" : "84",
             "cumulativePrestige" : "2",
@@ -421,7 +421,7 @@
           "rival" : "TENN",
           "headCoach" : {
             "contractLength" : "8",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "40",
             "ratOff" : "69",
             "cumulativePrestige" : "1",
@@ -451,7 +451,7 @@
           "hexColor" : "#00274C",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "37",
 						"cumulativePrestige": "0",
 						"homeState": "Massachusetts",
@@ -465,7 +465,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "63",
 						"cumulativePrestige": "0",
 						"homeState": "Wyoming",
@@ -480,7 +480,7 @@
           "rival" : "MSU",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "58",
             "ratOff" : "83",
             "cumulativePrestige" : "2",
@@ -503,7 +503,7 @@
           "hexColor" : "#18453B",
           "offCoordinator": {
 						"contractLength": "6",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "52",
 						"cumulativePrestige": "0",
 						"homeState": "Georgia",
@@ -517,7 +517,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "48",
 						"cumulativePrestige": "0",
 						"homeState": "Georgia",
@@ -532,7 +532,7 @@
           "rival" : "PSU",
           "headCoach" : {
             "contractLength" : "11",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "51",
             "ratOff" : "82",
             "cumulativePrestige" : "0",
@@ -555,7 +555,7 @@
           "hexColor" : "#BB0000",
           "offCoordinator": {
 						"contractLength": "5",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "60",
 						"cumulativePrestige": "0",
 						"homeState": "North Carolina",
@@ -569,7 +569,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "5",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "60",
 						"cumulativePrestige": "0",
 						"homeState": "Ohio",
@@ -584,7 +584,7 @@
           "rival" : "UM",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "43",
             "ratOff" : "88",
             "cumulativePrestige" : "5",
@@ -608,7 +608,7 @@
           "rival" : "MSU",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "49",
             "ratOff" : "79",
             "cumulativePrestige" : "40",
@@ -632,7 +632,7 @@
           "rival" : "WIS",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "41",
             "ratOff" : "75",
             "cumulativePrestige" : "5",
@@ -656,7 +656,7 @@
           "rival" : "MINN",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "53",
             "ratOff" : "77",
             "cumulativePrestige" : "28",
@@ -680,7 +680,7 @@
           "rival" : "NEB",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "55",
             "ratOff" : "73",
             "cumulativePrestige" : "20",
@@ -704,7 +704,7 @@
           "rival" : "IOWA",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "47",
             "ratOff" : "80",
             "cumulativePrestige" : "15",
@@ -728,7 +728,7 @@
           "rival" : "NW",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "51",
             "ratOff" : "76",
             "cumulativePrestige" : "18",
@@ -752,7 +752,7 @@
           "rival" : "PUR",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "51",
             "ratOff" : "74",
             "cumulativePrestige" : "80",
@@ -782,7 +782,7 @@
           "hexColor" : "#F66733",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "45",
 						"cumulativePrestige": "0",
 						"homeState": "South Dakota",
@@ -796,7 +796,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "37",
 						"cumulativePrestige": "0",
 						"homeState": "Washington",
@@ -811,7 +811,7 @@
           "rival" : "SC",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "52",
             "ratOff" : "87",
             "cumulativePrestige" : "1000",
@@ -835,7 +835,7 @@
           "rival" : "ND",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "53",
             "ratOff" : "82",
             "cumulativePrestige" : "15",
@@ -859,7 +859,7 @@
           "rival" : "UVA",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "51",
             "ratOff" : "71",
             "cumulativePrestige" : "5",
@@ -883,7 +883,7 @@
           "rival" : "CLEM",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "44",
             "ratOff" : "78",
             "cumulativePrestige" : "12",
@@ -907,7 +907,7 @@
           "rival" : "MIA",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "38",
             "ratOff" : "75",
             "cumulativePrestige" : "12",
@@ -931,7 +931,7 @@
           "rival" : "FSU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "51",
             "ratOff" : "83",
             "cumulativePrestige" : "3",
@@ -955,7 +955,7 @@
           "rival" : "UNC",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "47",
             "ratOff" : "73",
             "cumulativePrestige" : "12",
@@ -979,7 +979,7 @@
           "rival" : "NCST",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "70",
             "ratOff" : "75",
             "cumulativePrestige" : "0",
@@ -1002,7 +1002,7 @@
           "hexColor" : "#C99700",
           "offCoordinator": {
 						"contractLength": "5",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "29",
 						"cumulativePrestige": "0",
 						"homeState": "Arkansas",
@@ -1016,7 +1016,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "6",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "47",
 						"cumulativePrestige": "0",
 						"homeState": "New Hampshire",
@@ -1031,7 +1031,7 @@
           "rival" : "PITT",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "35",
             "ratOff" : "64",
             "cumulativePrestige" : "40",
@@ -1055,7 +1055,7 @@
           "rival" : "VT",
           "headCoach" : {
             "contractLength" : "8",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "42",
             "ratOff" : "73",
             "cumulativePrestige" : "20",
@@ -1085,7 +1085,7 @@
           "hexColor" : "#BF5700",
           "offCoordinator": {
 						"contractLength": "4",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "50",
 						"cumulativePrestige": "0",
 						"homeState": "Alabama",
@@ -1099,7 +1099,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "4",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "55",
 						"cumulativePrestige": "0",
 						"homeState": "Colorado",
@@ -1114,7 +1114,7 @@
           "rival" : "OU",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "47",
             "ratOff" : "81",
             "cumulativePrestige" : "10",
@@ -1137,7 +1137,7 @@
           "hexColor" : "#500000",
           "offCoordinator": {
 						"contractLength": "5",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "62",
 						"cumulativePrestige": "0",
 						"homeState": "Arizona",
@@ -1151,7 +1151,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "5",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "44",
 						"cumulativePrestige": "0",
 						"homeState": "New Jersey",
@@ -1166,7 +1166,7 @@
           "rival" : "UT",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "56",
             "ratOff" : "88",
             "cumulativePrestige" : "37",
@@ -1189,7 +1189,7 @@
           "hexColor" : "#841617",
           "offCoordinator": {
 						"contractLength": "5",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "37",
 						"cumulativePrestige": "0",
 						"homeState": "Nevada",
@@ -1203,7 +1203,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "5",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "58",
 						"cumulativePrestige": "0",
 						"homeState": "California",
@@ -1218,7 +1218,7 @@
           "rival" : "OKSU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "51",
             "ratOff" : "73",
             "cumulativePrestige" : "17",
@@ -1243,7 +1243,7 @@
           "rival" : "BAYL",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "52",
             "ratOff" : "79",
             "cumulativePrestige" : "40",
@@ -1267,7 +1267,7 @@
           "rival" : "TCU",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "46",
             "ratOff" : "74",
             "cumulativePrestige" : "0",
@@ -1291,7 +1291,7 @@
           "rival" : "MIZ",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "39",
             "ratOff" : "83",
             "cumulativePrestige" : "10",
@@ -1315,7 +1315,7 @@
           "rival" : "KU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "38",
             "ratOff" : "74",
             "cumulativePrestige" : "3",
@@ -1339,7 +1339,7 @@
           "rival" : "OU",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "55",
             "ratOff" : "78",
             "cumulativePrestige" : "60",
@@ -1363,7 +1363,7 @@
           "rival" : "KU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "54",
             "ratOff" : "79",
             "cumulativePrestige" : "0",
@@ -1387,7 +1387,7 @@
           "rival" : "KSU",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "57",
             "ratOff" : "67",
             "cumulativePrestige" : "15",
@@ -1418,7 +1418,7 @@
           "rival" : "UCLA",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "45",
             "ratOff" : "68",
             "cumulativePrestige" : "0",
@@ -1442,7 +1442,7 @@
           "rival" : "UW",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "38",
             "ratOff" : "66",
             "cumulativePrestige" : "0",
@@ -1465,7 +1465,7 @@
           "hexColor" : "#990000",
           "offCoordinator": {
 						"contractLength": "5",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "36",
 						"cumulativePrestige": "0",
 						"homeState": "North Carolina",
@@ -1479,7 +1479,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "41",
 						"cumulativePrestige": "0",
 						"homeState": "New Hampshire",
@@ -1494,7 +1494,7 @@
           "rival" : "STAN",
           "headCoach" : {
             "contractLength" : "10",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "36",
             "ratOff" : "89",
             "cumulativePrestige" : "17",
@@ -1518,7 +1518,7 @@
           "rival" : "USC",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "55",
             "ratOff" : "88",
             "cumulativePrestige" : "2",
@@ -1542,7 +1542,7 @@
           "rival" : "ORST",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "35",
             "ratOff" : "65",
             "cumulativePrestige" : "3",
@@ -1566,7 +1566,7 @@
           "rival" : "WSU",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "47",
             "ratOff" : "77",
             "cumulativePrestige" : "35",
@@ -1590,7 +1590,7 @@
           "rival" : "CAL",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "47",
             "ratOff" : "80",
             "cumulativePrestige" : "20",
@@ -1614,7 +1614,7 @@
           "rival" : "ORE",
           "headCoach" : {
             "contractLength" : "2",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "40",
             "ratOff" : "75",
             "cumulativePrestige" : "0",
@@ -1638,7 +1638,7 @@
           "rival" : "BYU",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "59",
             "ratOff" : "76",
             "cumulativePrestige" : "30",
@@ -1662,7 +1662,7 @@
           "rival" : "UTAH",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "46",
             "ratOff" : "76",
             "cumulativePrestige" : "2",
@@ -1693,7 +1693,7 @@
           "rival" : "SYR",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "31",
             "ratOff" : "78",
             "cumulativePrestige" : "0",
@@ -1717,7 +1717,7 @@
           "rival" : "UK",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "49",
             "ratOff" : "70",
             "cumulativePrestige" : "0",
@@ -1741,7 +1741,7 @@
           "rival" : "WVU",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "73",
             "cumulativePrestige" : "0",
@@ -1765,7 +1765,7 @@
           "rival" : "MD",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "55",
             "ratOff" : "66",
             "cumulativePrestige" : "0",
@@ -1789,7 +1789,7 @@
           "rival" : "RUT",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "52",
             "ratOff" : "80",
             "cumulativePrestige" : "0",
@@ -1813,7 +1813,7 @@
           "rival" : "VILA",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "50",
             "ratOff" : "75",
             "cumulativePrestige" : "0",
@@ -1837,7 +1837,7 @@
           "rival" : "BC",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "68",
             "cumulativePrestige" : "0",
@@ -1861,7 +1861,7 @@
           "rival" : "LOU",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "54",
             "ratOff" : "74",
             "cumulativePrestige" : "20",
@@ -1885,7 +1885,7 @@
           "rival" : "UCONN",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "42",
             "ratOff" : "61",
             "cumulativePrestige" : "0",
@@ -1909,7 +1909,7 @@
           "rival" : "TEM",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "40",
             "cumulativePrestige" : "0",
@@ -1940,7 +1940,7 @@
           "rival" : "USF",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "56",
             "ratOff" : "79",
             "cumulativePrestige" : "2",
@@ -1964,7 +1964,7 @@
           "rival" : "UCF",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "38",
             "ratOff" : "74",
             "cumulativePrestige" : "0",
@@ -1988,7 +1988,7 @@
           "rival" : "MEM",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "46",
             "ratOff" : "78",
             "cumulativePrestige" : "0",
@@ -2012,7 +2012,7 @@
           "rival" : "CIN",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "39",
             "ratOff" : "67",
             "cumulativePrestige" : "0",
@@ -2036,7 +2036,7 @@
           "rival" : "NAVY",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "54",
             "ratOff" : "75",
             "cumulativePrestige" : "0",
@@ -2060,7 +2060,7 @@
           "rival" : "ARMY",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "48",
             "ratOff" : "79",
             "cumulativePrestige" : "0",
@@ -2084,7 +2084,7 @@
           "rival" : "SMU",
           "headCoach" : {
             "contractLength" : "2",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "50",
             "ratOff" : "74",
             "cumulativePrestige" : "0",
@@ -2108,7 +2108,7 @@
           "rival" : "HOU",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "z",
             "ratOff" : "76",
             "cumulativePrestige" : "0",
@@ -2132,7 +2132,7 @@
           "rival" : "TLS",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "70",
             "cumulativePrestige" : "0",
@@ -2156,7 +2156,7 @@
           "rival" : "TUL",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "48",
             "ratOff" : "54",
             "cumulativePrestige" : "0",
@@ -2187,7 +2187,7 @@
           "rival" : "ASU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "45",
             "ratOff" : "80",
             "cumulativePrestige" : "4",
@@ -2211,7 +2211,7 @@
           "rival" : "ARIZ",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "67",
             "ratOff" : "77",
             "cumulativePrestige" : "0",
@@ -2235,7 +2235,7 @@
           "rival" : "CSU",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "58",
             "ratOff" : "75",
             "cumulativePrestige" : "4",
@@ -2259,7 +2259,7 @@
           "rival" : "NMST",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "45",
             "ratOff" : "57",
             "cumulativePrestige" : "0",
@@ -2283,7 +2283,7 @@
           "rival" : "CU",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "58",
             "ratOff" : "74",
             "cumulativePrestige" : "0",
@@ -2307,7 +2307,7 @@
           "rival" : "RICE",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "53",
             "ratOff" : "71",
             "cumulativePrestige" : "8",
@@ -2331,7 +2331,7 @@
           "rival" : "UNM",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "66",
             "cumulativePrestige" : "0",
@@ -2355,7 +2355,7 @@
           "rival" : "UTSA",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "44",
             "ratOff" : "68",
             "cumulativePrestige" : "0",
@@ -2379,7 +2379,7 @@
           "rival" : "UTEP",
           "headCoach" : {
             "contractLength" : "2",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "43",
             "ratOff" : "69",
             "cumulativePrestige" : "0",
@@ -2403,7 +2403,7 @@
           "rival" : "UNT",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "59",
             "ratOff" : "73",
             "cumulativePrestige" : "0",
@@ -2434,7 +2434,7 @@
           "rival" : "USU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "43",
             "ratOff" : "70",
             "cumulativePrestige" : "0",
@@ -2458,7 +2458,7 @@
           "rival" : "SDSU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "74",
             "cumulativePrestige" : "0",
@@ -2482,7 +2482,7 @@
           "rival" : "NEV",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "41",
             "ratOff" : "68",
             "cumulativePrestige" : "2",
@@ -2506,7 +2506,7 @@
           "rival" : "BSU",
           "headCoach" : {
             "contractLength" : "7",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "56",
             "ratOff" : "69",
             "cumulativePrestige" : "4",
@@ -2530,7 +2530,7 @@
           "rival" : "USAF",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "61",
             "ratOff" : "72",
             "cumulativePrestige" : "0",
@@ -2554,7 +2554,7 @@
           "rival" : "UNLV",
           "headCoach" : {
             "contractLength" : "2",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "60",
             "ratOff" : "65",
             "cumulativePrestige" : "0",
@@ -2578,7 +2578,7 @@
           "rival" : "FRES",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "61",
             "ratOff" : "73",
             "cumulativePrestige" : "0",
@@ -2602,7 +2602,7 @@
           "rival" : "HI",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "47",
             "ratOff" : "69",
             "cumulativePrestige" : "0",
@@ -2626,7 +2626,7 @@
           "rival" : "JOSE",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "55",
             "ratOff" : "68",
             "cumulativePrestige" : "0",
@@ -2650,7 +2650,7 @@
           "rival" : "WYO",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "53",
             "ratOff" : "67",
             "cumulativePrestige" : "0",
@@ -2681,7 +2681,7 @@
           "rival" : "GS",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "44",
             "ratOff" : "62",
             "cumulativePrestige" : "10",
@@ -2705,7 +2705,7 @@
           "rival" : "APP",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "43",
             "ratOff" : "76",
             "cumulativePrestige" : "0",
@@ -2729,7 +2729,7 @@
           "rival" : "USA",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "45",
             "ratOff" : "72",
             "cumulativePrestige" : "3",
@@ -2753,7 +2753,7 @@
           "rival" : "TROY",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "54",
             "ratOff" : "73",
             "cumulativePrestige" : "0",
@@ -2777,7 +2777,7 @@
           "rival" : "ULL",
           "headCoach" : {
             "contractLength" : "2",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "51",
             "ratOff" : "80",
             "cumulativePrestige" : "0",
@@ -2801,7 +2801,7 @@
           "rival" : "AKSU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "40",
             "ratOff" : "70",
             "cumulativePrestige" : "0",
@@ -2825,7 +2825,7 @@
           "rival" : "GSU",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "43",
             "ratOff" : "53",
             "cumulativePrestige" : "0",
@@ -2849,7 +2849,7 @@
           "rival" : "CCU",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "46",
             "ratOff" : "55",
             "cumulativePrestige" : "0",
@@ -2873,7 +2873,7 @@
           "rival" : "ULM",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "35",
             "ratOff" : "68",
             "cumulativePrestige" : "0",
@@ -2897,7 +2897,7 @@
           "rival" : "TSU",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "56",
             "ratOff" : "56",
             "cumulativePrestige" : "0",
@@ -2928,7 +2928,7 @@
           "rival" : "CHAR",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "51",
             "ratOff" : "67",
             "cumulativePrestige" : "5",
@@ -2952,7 +2952,7 @@
           "rival" : "WKU",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "62",
             "ratOff" : "60",
             "cumulativePrestige" : "2",
@@ -2976,7 +2976,7 @@
           "rival" : "FIU",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "43",
             "ratOff" : "62",
             "cumulativePrestige" : "0",
@@ -3000,7 +3000,7 @@
           "rival" : "FAU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "68",
             "ratOff" : "62",
             "cumulativePrestige" : "0",
@@ -3024,7 +3024,7 @@
           "rival" : "ODU",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "63",
             "ratOff" : "62",
             "cumulativePrestige" : "1",
@@ -3048,7 +3048,7 @@
           "rival" : "MAR",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "39",
             "ratOff" : "70",
             "cumulativePrestige" : "0",
@@ -3072,7 +3072,7 @@
           "rival" : "LAT",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "41",
             "ratOff" : "65",
             "cumulativePrestige" : "0",
@@ -3096,7 +3096,7 @@
           "rival" : "UAB",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "36",
             "ratOff" : "45",
             "cumulativePrestige" : "0",
@@ -3120,7 +3120,7 @@
           "rival" : "MTSU",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2021",
+            "startYear" : "2022",
             "age" : "42",
             "ratOff" : "54",
             "cumulativePrestige" : "0",
@@ -3144,7 +3144,7 @@
           "rival" : "USM",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "56",
             "ratOff" : "60",
             "cumulativePrestige" : "0",
@@ -3175,7 +3175,7 @@
           "rival" : "WMU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "59",
             "ratOff" : "75",
             "cumulativePrestige" : "0",
@@ -3199,7 +3199,7 @@
           "rival" : "BALL",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "38",
             "ratOff" : "58",
             "cumulativePrestige" : "0",
@@ -3223,7 +3223,7 @@
           "rival" : "OH",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "52",
             "ratOff" : "55",
             "cumulativePrestige" : "0",
@@ -3247,7 +3247,7 @@
           "rival" : "MOH",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "75",
             "ratOff" : "60",
             "cumulativePrestige" : "0",
@@ -3271,7 +3271,7 @@
           "rival" : "BUF",
           "headCoach" : {
             "contractLength" : "4",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "44",
             "ratOff" : "73",
             "cumulativePrestige" : "0",
@@ -3295,7 +3295,7 @@
           "rival" : "BGSU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "40",
             "ratOff" : "53",
             "cumulativePrestige" : "0",
@@ -3319,7 +3319,7 @@
           "rival" : "NIU",
           "headCoach" : {
             "contractLength" : "5",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "49",
             "ratOff" : "60",
             "cumulativePrestige" : "0",
@@ -3343,7 +3343,7 @@
           "rival" : "KENT",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "39",
             "ratOff" : "56",
             "cumulativePrestige" : "0",
@@ -3367,7 +3367,7 @@
           "rival" : "TOL",
           "headCoach" : {
             "contractLength" : "6",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "45",
             "ratOff" : "53",
             "cumulativePrestige" : "0",
@@ -3391,7 +3391,7 @@
           "rival" : "AKR",
           "headCoach" : {
             "contractLength" : "3",
-            "startYear" : "2020",
+            "startYear" : "2022",
             "age" : "34",
             "ratOff" : "54",
             "cumulativePrestige" : "0",
