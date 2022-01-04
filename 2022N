@@ -1107,7 +1107,11 @@
 						"name": "Randy Shannon",
 						"contractYear": "0"
 					},
-          "rival" : "MIA",
+          "rival" : ["MIA", "FLA"],
+          "rivalryNames" : {
+            "FLA": "Sunshine Showdown",
+            "MIA": "Florida Cup",
+          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
