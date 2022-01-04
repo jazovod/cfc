@@ -200,7 +200,7 @@
           "hexColor" : "#03244D",
           "rival" : "UGA",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "7",
             "startYear" : "2020",
             "age" : "45",
             "ratOff" : "84",
@@ -526,7 +526,7 @@
           "hexColor" : "#003594",
           "rival" : "ND",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "53",
             "ratOff" : "82",
@@ -1738,7 +1738,7 @@
           "hexColor" : "#003366",
           "rival" : "ASU",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "45",
             "ratOff" : "80",
@@ -2057,7 +2057,7 @@
           "hexColor" : "#00263A",
           "rival" : "BSU",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "7",
             "startYear" : "2020",
             "age" : "56",
             "ratOff" : "69",
