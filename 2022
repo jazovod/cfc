@@ -741,7 +741,6 @@
           },
           "defCoordinator": {
             "name": "Joe Rossi",
-            "coachingAbility": "85",
           },
           "rival" : "WIS",
           "headCoach" : {
@@ -768,10 +767,11 @@
           "prestige" : "84",
           "hexColor" : "#C5050C",
           "offCoordinator": {
-            "name": "David Raih",
+            "name": "Bob Bostad",
           },
           "defCoordinator": {
             "name": "Jim Leonhard",
+            "coachingAbility": "84",
           },
           "rival" : ["IOWA", "MIN", "NEB"],
           "rivalryNames" : {
