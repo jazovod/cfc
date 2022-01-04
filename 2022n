@@ -2518,6 +2518,7 @@
           "rivalryNames" : {
             "TCU": "Battle for the Iron Skillet",
             "RICE": "Battle for the Mayor's Cup",
+          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
