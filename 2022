@@ -119,7 +119,7 @@
 						"ratPot": "73",
 						"hometown": "Westminster Station",
 						"ratTalent": "78",
-						"baselinePrestige": "90",
+						"baselinePrestige": "80",
 						"coachingAbility": "79",
 						"name": "Rob Sale",
 						"contractYear": "0"
@@ -133,7 +133,7 @@
 						"ratPot": "72",
 						"hometown": "Kenai",
 						"ratTalent": "75",
-						"baselinePrestige": "90",
+						"baselinePrestige": "80",
 						"coachingAbility": "73",
 						"name": "Patrick Toney",
 						"contractYear": "0"
@@ -149,7 +149,7 @@
             "homeState" : "Tennessee",
             "ratPot" : "73",
             "ratTalent" : "80",
-            "baselinePrestige" : "75",
+            "baselinePrestige" : "70",
             "ratDiscipline" : "75",
             "ratOvr" : "78",
             "name" : "Billy Napier",
@@ -296,7 +296,7 @@
 						"contractYear": "0"
 					},
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "7",
             "startYear" : "2022",
             "age" : "47",
             "ratOff" : "85",
@@ -320,7 +320,7 @@
           "hexColor" : "#9D2235",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "39",
 						"cumulativePrestige": "0",
 						"homeState": "New Mexico",
@@ -334,7 +334,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "45",
 						"cumulativePrestige": "0",
 						"homeState": "Missouri",
@@ -663,7 +663,7 @@
 					},
           "rival" : "MSU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "8",
             "startYear" : "2022",
             "age" : "49",
             "ratOff" : "79",
@@ -735,7 +735,7 @@
           "hexColor" : "#000000",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "38",
 						"cumulativePrestige": "0",
 						"homeState": "Missouri",
@@ -749,7 +749,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "58",
 						"cumulativePrestige": "0",
 						"homeState": "Florida",
@@ -990,7 +990,7 @@
           "hexColor" : "#782F40",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "40",
 						"cumulativePrestige": "0",
 						"homeState": "Indiana",
@@ -1004,7 +1004,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "55",
 						"cumulativePrestige": "0",
 						"homeState": "DC",
@@ -1042,28 +1042,28 @@
           "hexColor" : "#005030",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "38",
 						"cumulativePrestige": "0",
 						"homeState": "Texas",
 						"ratPot": "76",
 						"hometown": "Pilot Point",
 						"ratTalent": "75",
-						"baselinePrestige": "75",
+						"baselinePrestige": "70",
 						"coachingAbility": "73",
 						"name": "Bryan McClendon",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "46",
 						"cumulativePrestige": "0",
 						"homeState": "Florida",
 						"ratPot": "65",
 						"hometown": "Homestead",
 						"ratTalent": "69",
-						"baselinePrestige": "75",
+						"baselinePrestige": "73",
 						"coachingAbility": "77",
 						"name": "Joe Salavea",
 						"contractYear": "0"
@@ -1079,7 +1079,7 @@
             "homeState" : "Florida",
             "ratPot" : "74",
             "ratTalent" : "82",
-            "baselinePrestige" : "73",
+            "baselinePrestige" : "70",
             "ratDiscipline" : "73",
             "ratOvr" : "81",
             "name" : "Mario Cristobal",
@@ -1118,7 +1118,7 @@
           "hexColor" : "#4B9CD3",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "53",
 						"cumulativePrestige": "0",
 						"homeState": "New Jersey",
@@ -1132,7 +1132,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "50",
 						"cumulativePrestige": "0",
 						"homeState": "Arkansas",
@@ -1419,7 +1419,7 @@
             "homeState" : "Texas",
             "ratPot" : "69",
             "ratTalent" : "74",
-            "baselinePrestige" : "75",
+            "baselinePrestige" : "72",
             "ratDiscipline" : "82",
             "ratOvr" : "76",
             "name" : "Sonny Dykes",
@@ -1434,7 +1434,7 @@
           "hexColor" : "#154734",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "53",
 						"cumulativePrestige": "0",
 						"homeState": "Texas",
@@ -1448,7 +1448,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "54",
 						"cumulativePrestige": "0",
 						"homeState": "California",
@@ -1534,7 +1534,7 @@
           "hexColor" : "#FE5C00",
           "offCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "52",
 						"cumulativePrestige": "0",
 						"homeState": "Texas",
@@ -1548,7 +1548,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "7",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "56",
 						"cumulativePrestige": "0",
 						"homeState": "Nebraska",
@@ -1641,7 +1641,7 @@
           "hexColor" : "#003262",
           "rival" : "UCLA",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "5",
             "startYear" : "2022",
             "age" : "45",
             "ratOff" : "68",
@@ -1765,7 +1765,7 @@
           "hexColor" : "#036936",
           "offCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "31",
 						"cumulativePrestige": "0",
 						"homeState": "Arizona",
@@ -1779,7 +1779,7 @@
 					},
 					"defCoordinator": {
 						"contractLength": "3",
-						"startYear": "2021",
+						"startYear": "2022",
 						"age": "34",
 						"cumulativePrestige": "0",
 						"homeState": "Texas",
