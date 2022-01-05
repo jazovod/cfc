@@ -1246,6 +1246,7 @@
           "abbreviation" : "NCST",
           "prestige" : "75",
           "hexColor" : "#CC0000",
+          "offCoordinator": {
             "name": "Tim Beck",
             "age": "55",
           },
@@ -1397,6 +1398,7 @@
           "abbreviation" : "UVA",
           "prestige" : "72",
           "hexColor" : "#232D4B",
+          "offCoordinator": {
             "name": "Desmond Kitchings",
             "age": "43",
           },
@@ -1600,6 +1602,7 @@
           "abbreviation" : "TCU",
           "prestige" : "78",
           "hexColor" : "#4D1979",
+          "offCoordinator": {
             "name": "Garrett Riley",
             "age": "32",
           },
@@ -1687,6 +1690,7 @@
           "abbreviation" : "ISU",
           "prestige" : "78",
           "hexColor" : "#C8102E",
+          "offCoordinator": {
             "name": "Tom Manning",
             "age": "38",
           },
@@ -1723,6 +1727,7 @@
           "abbreviation" : "MIZZ",
           "prestige" : "79",
           "hexColor" : "#F1B82D",
+          "offCoordinator": {
             "name": "Bush Hamdan",
             "age": "35",
           },
@@ -1810,6 +1815,7 @@
           "abbreviation" : "KSU",
           "prestige" : "75",
           "hexColor" : "#512888",
+          "offCoordinator": {
             "name": "Collin Klein",
             "age": "32",
           },
@@ -1841,6 +1847,7 @@
           "abbreviation" : "KU",
           "prestige" : "65",
           "hexColor" : "#0051BA",
+          "offCoordinator": {
             "name": "Andy Kotelnicki",
             "age": "36",
           },
@@ -1883,6 +1890,7 @@
           "abbreviation" : "CAL",
           "prestige" : "75",
           "hexColor" : "#003262",
+          "offCoordinator": {
             "name": "Bill Musgrave",
             "age": "54",
           },
@@ -1914,6 +1922,7 @@
           "abbreviation" : "WSU",
           "prestige" : "77",
           "hexColor" : "#981E32",
+          "offCoordinator": {
             "name": "Brian Smith",
             "age": "41",
           },
@@ -2001,6 +2010,7 @@
           "abbreviation" : "UCLA",
           "prestige" : "80",
           "hexColor" : "#2774AE",
+          "offCoordinator": {
             "name": "Justin Frye",
             "age": "38",
           },
@@ -2091,6 +2101,7 @@
           "abbreviation" : "UW",
           "prestige" : "84",
           "hexColor" : "#4B2E83",
+          "offCoordinator": {
             "name": "Ryan Grubb",
             "age": "45",
           },
@@ -2126,6 +2137,7 @@
           "abbreviation" : "STAN",
           "prestige" : "81",
           "hexColor" : "#8C1515",
+          "offCoordinator": {
             "name": "Tavita Pritchard",
             "age": "34",
           },
