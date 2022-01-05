@@ -5,7 +5,7 @@
         {
           "abbreviation": "ALA",
           "prestige": "95",
-          "hexColor" : "A60C31",
+          "hexColor" : "#A60C31",
           "offCoordinator": {
 						"contractlength": "7",
 						"startYear": "2022",
