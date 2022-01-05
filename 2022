@@ -34,10 +34,10 @@
 						"name": "Pete Golding",
 						"contractYear": "0"
 					},
-          "rival" : ["AUB", "TEN", "LSU"],
+          "rival" : ["AUB", "TENN", "LSU"],
           "rivalryNames" : {
             "AUB": "Iron Bowl",
-            "TEN": "3rd Saturday of October",
+            "TENN": "3rd Saturday of October",
             "LSU": "Saban Bowl",
           },
           "headCoach" : {
@@ -91,7 +91,10 @@
 						"name": "Will Muschamp",
 						"contractYear": "0"
 					},
-          "rival" : "UF",
+          "rival" : "FLA",
+          "rivalryNames" : {
+            "FLA": "World's Largest Cocktail Party",
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
@@ -112,7 +115,7 @@
           "state" : "Georgia"
         },
         {
-          "abbreviation" : "UF",
+          "abbreviation" : "FLA",
           "prestige" : "87",
           "hexColor" : "#0021A5",
           "offCoordinator": {
@@ -124,7 +127,7 @@
 						"ratPot": "73",
 						"hometown": "Westminster Station",
 						"ratTalent": "78",
-						"baselinePrestige": "80",
+						"baselinePrestige": "75",
 						"coachingAbility": "79",
 						"name": "Rob Sale",
 						"contractYear": "0"
@@ -138,7 +141,7 @@
 						"ratPot": "72",
 						"hometown": "Kenai",
 						"ratTalent": "75",
-						"baselinePrestige": "80",
+						"baselinePrestige": "75",
 						"coachingAbility": "73",
 						"name": "Patrick Toney",
 						"contractYear": "0"
@@ -159,7 +162,7 @@
             "homeState" : "Tennessee",
             "ratPot" : "73",
             "ratTalent" : "80",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "60",
             "ratDiscipline" : "75",
             "ratOvr" : "78",
             "name" : "Billy Napier",
@@ -374,7 +377,7 @@
             "ratOff" : "80",
             "cumulativePrestige" : "0",
             "ratDef" : "73",
-            "homeState" : "Texas",
+            "homeState" : "Oklahoma",
             "ratPot" : "74",
             "ratTalent" : "76",
             "baselinePrestige" : "60",
@@ -801,7 +804,7 @@
         {
           "abbreviation" : "IOWA",
           "prestige" : "81",
-          "hexColor" : "#000000",
+          "hexColor" : "#FFCD00",
           "offCoordinator": {
 						"contractLength": "7",
 						"startYear": "2022",
@@ -918,6 +921,12 @@
           "abbreviation" : "PUR",
           "prestige" : "73",
           "hexColor" : "#CFB991",
+          "offCoordinator": {
+            "name": "Brian Brohm",
+          },
+          "defCoordinator": {
+            "name": "Brad Lambert",
+          },
           "rival" : ["IU", "ND"],
           "rivalryNames" : {
             "IU": "Battle for the Old Oaken Bucket",
@@ -946,6 +955,12 @@
           "abbreviation" : "IU",
           "prestige" : "75",
           "hexColor" : "#990000",
+          "offCoordinator": {
+            "name": "Walt Bell",
+          },
+          "defCoordinator": {
+            "name": "Charlton Warren",
+          },
           "rival" : "PUR",
           "headCoach" : {
             "contractLength" : "6",
@@ -1032,6 +1047,12 @@
           "abbreviation" : "PITT",
           "prestige" : "78",
           "hexColor" : "#003594",
+          "offCoordinator": {
+            "name": "Chris Beatty",
+          },
+          "defCoordinator": {
+            "name": "Randy Bates",
+          },
           "rival" : "ND",
           "headCoach" : {
             "contractLength" : "6",
@@ -1056,6 +1077,14 @@
           "abbreviation" : "VT",
           "prestige" : "80",
           "hexColor" : "#861F41",
+          "offCoordinator": {
+            "name": "Chris Marve",
+            "age": "32",
+          },
+          "defCoordinator": {
+            "name": "Tyler Bowen",
+            "age": "32",
+          },
           "rival" : "UVA",
           "headCoach" : {
             "contractLength" : "7",
@@ -1217,6 +1246,13 @@
           "abbreviation" : "NCST",
           "prestige" : "75",
           "hexColor" : "#CC0000",
+            "name": "Tim Beck",
+            "age": "55",
+          },
+          "defCoordinator": {
+            "name": "Tony Gibson",
+            "age": "49",
+          },
           "rival" : "UNC",
           "headCoach" : {
             "contractLength" : "6",
@@ -1326,7 +1362,18 @@
 						"name": "Mike Elston",
 						"contractYear": "0"
 					},
-          "rival" : "PITT",
+          "rival" : ["PSU", "USC", "STAN", "OSU", "UM", "PUR", "IOWA", "MSU", "PITT", "BC", "NAVY", "ARMY", "NW", "MIA"],
+          "rivalryNames" : {
+            "MSU": "Battle for the Megaphone",
+            "PUR": "Battle for the Shillelagh Trophy",
+            "BC": "Holy War",
+            "STAN": "Battle for the Legends Trophy",
+            "USC": "Battle for the Jeweled Shillelagh",
+            "PITT": "Keystone Classic",
+            "NAVY": "Rip Miller Trophy Game",
+            "NW": "Battle for the Shillelagh",
+            "MIA": "Catholics vs Convicts"
+          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -1350,6 +1397,13 @@
           "abbreviation" : "UVA",
           "prestige" : "72",
           "hexColor" : "#232D4B",
+            "name": "Desmond Kitchings",
+            "age": "43",
+          },
+          "defCoordinator": {
+            "name": "Brian Bratton",
+            "age": "39",
+          },
           "rival" : "VT",
           "headCoach" : {
             "contractLength" : "8",
@@ -1546,6 +1600,13 @@
           "abbreviation" : "TCU",
           "prestige" : "78",
           "hexColor" : "#4D1979",
+            "name": "Garrett Riley",
+            "age": "32",
+          },
+          "defCoordinator": {
+            "name": "Joe Gillespie",
+            "age": "50",
+          },
           "rival" : ["BAYL", "SMU"],
           "rivalryNames" : {
             "BAYL": "Holy War",
@@ -1626,6 +1687,13 @@
           "abbreviation" : "ISU",
           "prestige" : "78",
           "hexColor" : "#C8102E",
+            "name": "Tom Manning",
+            "age": "38",
+          },
+          "defCoordinator": {
+            "name": "John Heacock",
+            "age": "61",
+          },
           "rival" : ["MIZZ", "IOWA", "KSU"],
           "rivalryNames" : {
             "IOWA": "Battle for the Cy-Hawk Trophy",
@@ -1655,6 +1723,13 @@
           "abbreviation" : "MIZZ",
           "prestige" : "79",
           "hexColor" : "#F1B82D",
+            "name": "Bush Hamdan",
+            "age": "35",
+          },
+          "defCoordinator": {
+            "name": "Steve Wilks",
+            "age": "52",
+          },
           "rival" : ["KU", "ARK"],
           "rivalryNames" : {
             "KU": "Border Showdown",
@@ -1735,6 +1810,13 @@
           "abbreviation" : "KSU",
           "prestige" : "75",
           "hexColor" : "#512888",
+            "name": "Collin Klein",
+            "age": "32",
+          },
+          "defCoordinator": {
+            "name": "Joe Klanderman",
+            "age": "44",
+          },
           "rival" : "KU",
           "headCoach" : {
             "contractLength" : "5",
@@ -1759,6 +1841,13 @@
           "abbreviation" : "KU",
           "prestige" : "65",
           "hexColor" : "#0051BA",
+            "name": "Andy Kotelnicki",
+            "age": "36",
+          },
+          "defCoordinator": {
+            "name": "Brian Borland",
+            "age": "58",
+          },
           "rival" : ["KSU", "MIZZ"],
           "rivalryNames" : {
             "KSU": "Sunflower Showdown",
@@ -1794,6 +1883,13 @@
           "abbreviation" : "CAL",
           "prestige" : "75",
           "hexColor" : "#003262",
+            "name": "Bill Musgrave",
+            "age": "54",
+          },
+          "defCoordinator": {
+            "name": "Peter Sirmon",
+            "age": "44",
+          },
           "rival" : "UCLA",
           "headCoach" : {
             "contractLength" : "5",
@@ -1818,6 +1914,13 @@
           "abbreviation" : "WSU",
           "prestige" : "77",
           "hexColor" : "#981E32",
+            "name": "Brian Smith",
+            "age": "41",
+          },
+          "defCoordinator": {
+            "name": "Brian Ward",
+            "age": "48",
+          },
           "rival" : "UW",
           "headCoach" : {
             "contractLength" : "5",
@@ -1898,6 +2001,13 @@
           "abbreviation" : "UCLA",
           "prestige" : "80",
           "hexColor" : "#2774AE",
+            "name": "Justin Frye",
+            "age": "38",
+          },
+          "defCoordinator": {
+            "name": "Jerry Azzinaro",
+            "age": "63",
+          },
           "rival" : ["USC", "CAL"],
           "rivalryNames" : {
             "USC": "Battle for the Victory Bell"
@@ -1981,6 +2091,13 @@
           "abbreviation" : "UW",
           "prestige" : "84",
           "hexColor" : "#4B2E83",
+            "name": "Ryan Grubb",
+            "age": "45",
+          },
+          "defCoordinator": {
+            "name": "William Inge",
+            "age": "48",
+          },
           "rival" : ["UO", "WSU"],
           "rivalryNames" : {
             "WSU": "Apple Cup",
@@ -2009,6 +2126,13 @@
           "abbreviation" : "STAN",
           "prestige" : "81",
           "hexColor" : "#8C1515",
+            "name": "Tavita Pritchard",
+            "age": "34",
+          },
+          "defCoordinator": {
+            "name": "Lance Anderson",
+            "age": "50",
+          },
           "rival" : ["CAL", "PSU", "ND", "USC", "SJSU"],
           "rivalryNames" : {
             "ND": "Battle for the Legends Trophy",
@@ -2139,7 +2263,7 @@
             "homeState" : "Kentucky",
             "ratPot" : "66",
             "ratTalent" : "70",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "67",
             "ratDiscipline" : "73",
             "ratOvr" : "71",
             "name" : "Neal Brown",
@@ -3156,17 +3280,17 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
-            "age" : "43",
+            "age" : "49",
             "ratOff" : "76",
             "cumulativePrestige" : "0",
             "ratDef" : "67",
             "homeState" : "Georgia",
-            "ratPot" : "52",
-            "ratTalent" : "47",
-            "baselinePrestige" : "45",
+            "ratPot" : "65",
+            "ratTalent" : "77",
+            "baselinePrestige" : "35",
             "ratDiscipline" : "76",
-            "ratOvr" : "66",
-            "name" : "Chad Lunsford",
+            "ratOvr" : "74",
+            "name" : "Clay Helton",
             "contractYear" : "0"
           },
           "name" : "Georgia Southern",
