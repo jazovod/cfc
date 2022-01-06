@@ -5,7 +5,7 @@
         {
           "abbreviation": "ALA",
           "prestige": "95",
-          "hexColor" : "#A60C31",
+          "hexColor" : "A60C31",
           "offCoordinator": {
 						"contractlength": "7",
 						"startYear": "2022",
@@ -293,29 +293,29 @@
           "offCoordinator": {
 						"contractlength": "7",
 						"startYear": "2022",
-						"age": "43",
+						"age": "28",
 						"cumulativePrestige": "0",
 						"homeState": "Alabama",
-						"ratPot": "73",
+						"ratPot": "77",
 						"hometown": "Mobile",
-						"ratTalent": "67",
+						"ratTalent": "74",
 						"baselinePrestige": "70",
-						"coachingAbility": "74",
-						"name": "Tee Martin",
+						"coachingAbility": "67",
+						"name": "Charlie Weis Jr",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractlength": "7",
 						"startYear": "2022",
-						"age": "43",
+						"age": "41",
 						"cumulativePrestige": "0",
-						"homeState": "Ohio",
-						"ratPot": "66",
-						"hometown": "Youngstown",
-						"ratTalent": "73",
+						"homeState": "New Jersey",
+						"ratPot": "69",
+						"hometown": "Hackensack",
+						"ratTalent": "72",
 						"baselinePrestige": "70",
-						"coachingAbility": "75",
-						"name": "DJ Durkin",
+						"coachingAbility": "70",
+						"name": "Chris Partridge",
 						"contractYear": "0"
 					},
           "headCoach" : {
@@ -371,7 +371,7 @@
 					},
           "rival" : "LSU",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "6",
             "startYear" : "2022",
             "age" : "60",
             "ratOff" : "80",
@@ -380,7 +380,7 @@
             "homeState" : "Oklahoma",
             "ratPot" : "74",
             "ratTalent" : "76",
-            "baselinePrestige" : "60",
+            "baselinePrestige" : "55",
             "ratDiscipline" : "70",
             "ratOvr" : "77",
             "name" : "Sam Pittman",
@@ -395,9 +395,11 @@
           "hexColor" : "#660000",
           "offCoordinator": {
             "name": "Mason Miller",
+            "age": "43",
           },
           "defCoordinator": {
             "name": "Zach Arnett",
+            "age": "35",
           },
           "rival" : "MISS",
           "headCoach" : {
@@ -482,9 +484,11 @@
           "hexColor" : "#866D4B",
           "offCoordinator": {
             "name": "David Raih",
+            "age": "41",
           },
           "defCoordinator": {
             "name": "Jesse Minter",
+            "age": "38",
           },
           "rival" : "TENN",
           "headCoach" : {
@@ -714,7 +718,8 @@
           "rival" : ["ND", "USC", "STAN", "OSU", "MSU", "RUT", "PITT"],
           "rivalryNames" : {
             "MSU": "Battle for the Land Grant Trophy",
-            "MIN": "Battle for the Governor's Victory Bell"
+            "MIN": "Battle for the Governor's Victory Bell",
+            "PITT": "Keystone Classic"
           },
           "headCoach" : {
             "contractLength" : "8",
@@ -741,9 +746,11 @@
           "hexColor" : "#7A0019",
           "offCoordinator": {
             "name": "Matt Simon",
+            "age": "36",
           },
           "defCoordinator": {
             "name": "Joe Rossi",
+            "age": "42",
           },
           "rival" : "WIS",
           "headCoach" : {
@@ -771,10 +778,12 @@
           "hexColor" : "#C5050C",
           "offCoordinator": {
             "name": "Bob Bostad",
+            "age": "55",
           },
           "defCoordinator": {
             "name": "Jim Leonhard",
             "coachingAbility": "84",
+            "age": "39",
           },
           "rival" : ["IOWA", "MIN", "NEB"],
           "rivalryNames" : {
@@ -923,9 +932,11 @@
           "hexColor" : "#CFB991",
           "offCoordinator": {
             "name": "Brian Brohm",
+            "age" : "36",
           },
           "defCoordinator": {
             "name": "Brad Lambert",
+            "age" : "56",
           },
           "rival" : ["IU", "ND"],
           "rivalryNames" : {
@@ -957,9 +968,11 @@
           "hexColor" : "#990000",
           "offCoordinator": {
             "name": "Walt Bell",
+            "age" : "37",
           },
           "defCoordinator": {
             "name": "Charlton Warren",
+            "age" : "44",
           },
           "rival" : "PUR",
           "headCoach" : {
@@ -1049,9 +1062,11 @@
           "hexColor" : "#003594",
           "offCoordinator": {
             "name": "Chris Beatty",
+            "age" : "48",
           },
           "defCoordinator": {
             "name": "Randy Bates",
+            "age" : "61",
           },
           "rival" : "ND",
           "headCoach" : {
@@ -1370,7 +1385,6 @@
             "BC": "Holy War",
             "STAN": "Battle for the Legends Trophy",
             "USC": "Battle for the Jeweled Shillelagh",
-            "PITT": "Keystone Classic",
             "NAVY": "Rip Miller Trophy Game",
             "NW": "Battle for the Shillelagh",
             "MIA": "Catholics vs Convicts"
@@ -1504,17 +1518,17 @@
 						"contractYear": "0"
 					},
 					"defCoordinator": {
-						"contractLength": "5",
+						"contractlength": "7",
 						"startYear": "2022",
-						"age": "44",
+						"age": "43",
 						"cumulativePrestige": "0",
-						"homeState": "New Jersey",
-						"ratPot": "68",
-						"hometown": "South Brunswick",
-						"ratTalent": "82",
-						"baselinePrestige": "80",
-						"coachingAbility": "73",
-						"name": "Mike Elko",
+						"homeState": "Ohio",
+						"ratPot": "66",
+						"hometown": "Youngstown",
+						"ratTalent": "73",
+						"baselinePrestige": "70",
+						"coachingAbility": "75",
+						"name": "DJ Durkin",
 						"contractYear": "0"
 					},
           "rival" : ["UT", "ARK"],
@@ -2174,6 +2188,14 @@
           "abbreviation" : "ORST",
           "prestige" : "70",
           "hexColor" : "#D73F09",
+          "offCoordinator": {
+            "name": "Brian Lindgren",
+            "age": "34",
+          },
+          "defCoordinator": {
+            "name": "Trent Bray",
+            "age": "39",
+          },
           "rival" : "ORE",
           "headCoach" : {
             "contractLength" : "2",
@@ -2198,6 +2220,34 @@
           "abbreviation" : "UTAH",
           "prestige" : "81",
           "hexColor" : "#CC0000",
+					"offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "57",
+						"cumulativePrestige": "0",
+						"homeState": "Utah",
+						"ratPot": "54",
+						"hometown": "Ogden",
+						"ratTalent": "80",
+						"baselinePrestige": "70",
+						"coachingAbility": "76",
+						"name": "Andy Ludwig",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "42",
+						"cumulativePrestige": "0",
+						"homeState": "Utah",
+						"ratPot": "72",
+						"hometown": "Salt Lake City",
+						"ratTalent": "83",
+						"baselinePrestige": "70",
+						"coachingAbility": "77",
+						"name": "Morgan Scalley",
+						"contractYear": "0"
+					},
           "rival" : ["BYU", "UC", "USU"],
           "rivalryNames" : {
             "UC": "Rumble in the Rockies",
@@ -2214,7 +2264,7 @@
             "homeState" : "California",
             "ratPot" : "61",
             "ratTalent" : "84",
-            "baselinePrestige" : "75",
+            "baselinePrestige" : "70",
             "ratDiscipline" : "76",
             "ratOvr" : "82",
             "name" : "Kyle Whittingham",
@@ -2227,6 +2277,14 @@
           "abbreviation" : "BYU",
           "prestige" : "76",
           "hexColor" : "#002E5D",
+          "offCoordinator": {
+            "name": "Aaron Roderick",
+            "age": "49",
+          },
+          "defCoordinator": {
+            "name": "Ilaisa Tuiaki",
+            "age": "43",
+          },
           "rival" : "UTAH",
           "headCoach" : {
             "contractLength" : "4",
@@ -2258,6 +2316,14 @@
           "abbreviation" : "WVU",
           "prestige" : "73",
           "hexColor" : "#EAAA00",
+          "offCoordinator": {
+            "name": "Gerat Parker",
+            "age": "41",
+          },
+          "defCoordinator": {
+            "name": "Ilaisa Tuiaki",
+            "age": "40",
+          },
           "rival" : ["VT", "CUSE", "PITT", "MRSH"],
           "rivalryNames" : {
             "MRSH": "Friends of Coal Bowl",
