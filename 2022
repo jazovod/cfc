@@ -1276,7 +1276,11 @@
           "state" : "Florida"
         },
         {
-          "abbreviation" : "NCST",
+          "rival" : ["UNC", "SC", "WF"],
+          "rivalryNames" : {
+            "UNC": "Battle of Tobacco Road",
+            "WF": "Battle of Tobacco Road",
+          },
           "prestige" : "75",
           "hexColor" : "#CC0000",
           "offCoordinator": {
@@ -2618,7 +2622,11 @@
             "name": "Brad Lambert",
             "age": "56",
           },
-          "rival" : "MD",
+          "rival" : ["MD", "UNC", "NCST"],
+          "rivalryNames" : {
+            "UNC": "Battle of Tobacco Road",
+            "NCST": "Battle of Tobacco Road"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
