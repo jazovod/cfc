@@ -255,12 +255,13 @@
 						"name": "Daronte Jones",
 						"contractYear": "0"
 					},
-          "rival" : ["ALA", "AUB","ARK", "TUL"],
+          "rival" : ["ALA", "AUB","ARK", "TUL", "MISS"],
           "rivalryNames" : {
             "ALA": "Saban Bowl",
             "ARK": "Battle for the Golden Boot",
             "AUB": "Tiger Bowl",
             "TUL": "Battle for the Rag",
+            "MISS": "Magnolia Bowl"
           },
           "headCoach" : {
             "contractLength" : "10",
@@ -849,7 +850,7 @@
           "rivalryNames" : {
             "WIS": "Battle for the Heartland Trophy",
             "MIN": "Battle for the Floyd of Rosedale",
-            "ISU": "Battle for the Cy-Hawk Trophy",
+            "ISU": "¡El Assico!",
             "NEB": "The Heroes Game",
             },
           "headCoach" : {
@@ -1719,11 +1720,10 @@
             "name": "John Heacock",
             "age": "61",
           },
-          "rival" : ["MIZZ", "IOWA", "KSU"],
+          "rival" : ["IOWA", "KSU"],
           "rivalryNames" : {
-            "IOWA": "Battle for the Cy-Hawk Trophy",
+            "IOWA": "¡El Assico!",
             "KSU": "Farmageddon",
-            "MIZZ": "Battle for the Telephone Trophy"
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -2341,7 +2341,7 @@
           "prestige" : "73",
           "hexColor" : "#EAAA00",
           "offCoordinator": {
-            "name": "Gerat Parker",
+            "name": "Gerad Parker",
             "age": "41",
           },
           "defCoordinator": {
