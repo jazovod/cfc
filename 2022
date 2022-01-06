@@ -2626,7 +2626,8 @@
             "ratOff" : "84",
             "cumulativePrestige" : "0",
             "ratDef" : "58",
-            "homeState" : "Pennsylvania",
+            "hometown": "Youngstown",
+            "homeState" : "New York",
             "ratPot" : "63",
             "ratTalent" : "73",
             "baselinePrestige" : "60",
@@ -2635,8 +2636,8 @@
             "name" : "Dave Clawson",
             "contractYear" : "0"
           },
-          "name" : "Villanova",
-          "state" : "Pennsylvania"
+          "name" : "Wake Forest",
+          "state" : "North Carolina"
         }
       ],
       "confFullName" : "Big East",
