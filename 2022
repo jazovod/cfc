@@ -1085,7 +1085,10 @@
             "name": "Randy Bates",
             "age" : "61",
           },
-          "rival" : "ND",
+          "rival" : ["ND", "PSU"],
+          "rivalryNames" : {
+            "PSU": "Keystone Classic"
+          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
