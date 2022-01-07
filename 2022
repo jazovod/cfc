@@ -680,7 +680,7 @@
           "rival" : ["UM", "PSU"],
           "rivalryNames" : {
             "UM": "The Game",
-	  }
+	  },
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2022",
