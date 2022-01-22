@@ -2837,7 +2837,7 @@
         {
           "abbreviation" : "SMU",
           "prestige" : "62",
-          "hexColor" : "#354CA1",
+          "hexColor" : "#C8102E",
           "rival" : ["HOU", "TCU", "RICE"],
           "rivalryNames" : {
             "TCU": "Battle for the Iron Skillet",
@@ -3521,7 +3521,7 @@
         {
           "abbreviation" : "AKSU",
           "prestige" : "34",
-          "hexColor" : "#CCO92F",
+          "hexColor" : "#CC092F",
           "rival" : "ULL",
           "headCoach" : {
             "contractLength" : "5",
