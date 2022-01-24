@@ -494,6 +494,7 @@
         },
         {
           "abbreviation" : "VAND",
+          "rival" : "TENN",
           "prestige" : "71",
           "hexColor" : "#866D4B",
           "offCoordinator": {
@@ -1287,6 +1288,7 @@
             "UNC": "Battle of Tobacco Road",
             "WF": "Battle of Tobacco Road",
           },
+	  "abbreviation" : "NCST",
           "prestige" : "75",
           "hexColor" : "#CC0000",
           "offCoordinator": {
