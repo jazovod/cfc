@@ -660,22 +660,22 @@
 						"hometown": "Maiden",
 						"ratTalent": "75",
 						"baselinePrestige": "87",
-						"coachingAbility": "78",
+						"coachingAbility": "84",
 						"name": "Kevin Wilson",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractLength": "5",
 						"startYear": "2022",
-						"age": "60",
+						"age": "56",
 						"cumulativePrestige": "0",
 						"homeState": "Ohio",
 						"ratPot": "64",
 						"hometown": "Colerain",
 						"ratTalent": "82",
 						"baselinePrestige": "87",
-						"coachingAbility": "87",
-						"name": "Kerry Coombs",
+						"coachingAbility": "77",
+						"name": "Jim Knowles",
 						"contractYear": "0"
 					},
           "rival" : ["UM", "PSU"],
@@ -1374,7 +1374,7 @@
             "contractYear" : "0"
           },
           "name" : "UNC",
-          "state" : "UNC"
+          "state" : "North Carolina"
         },
         {
           "abbreviation" : "ND",
