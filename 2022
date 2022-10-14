@@ -547,8 +547,13 @@
           },
           "name" : "Texas A&M",
           "state" : "Texas"
-        },
-    {
+        }
+	],
+      "confFullName" : "SEC",
+      "confPrestige" : "95",
+      "confName" : "SEC"
+    },
+    	{
       "confTeams" : [
         {
           "abbreviation" : "UM",
