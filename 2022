@@ -1008,7 +1008,7 @@
             "name": "Ryan Walters",
             "age" : "36",
           },
-          "rival" : "PUR",
+          "rival" : ["PUR"],
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
