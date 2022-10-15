@@ -1272,12 +1272,12 @@
           "state" : "Georgia"
         },
         {
+	  "abbreviation" : "NCST",
           "rival" : ["UNC", "SC", "WF"],
           "rivalryNames" : {
             "UNC": "Battle of Tobacco Road",
             "WF": "Battle of Tobacco Road",
           },
-	  "abbreviation" : "NCST",
           "prestige" : "75",
           "hexColor" : "#CC0000",
           "offCoordinator": {
@@ -1410,7 +1410,7 @@
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "35",
+            "age" : "36",
             "ratOff" : "64",
             "cumulativePrestige" : "40",
             "ratDef" : "74",
@@ -2672,7 +2672,7 @@
           },
           "name" : "Pitt",
           "state" : "Pennsylvania"
-        },
+        }
       ],
       "confFullName" : "Big East",
       "confPrestige" : "62",
