@@ -1106,7 +1106,7 @@
           "rivalryNames" : {
             "UNC": "Battle of Tobacco Road",
             "NCST": "Battle of Tobacco Road",
-	    "WF": "Battle of Tobacco Road",
+	    "DUKE": "Battle of Tobacco Road",
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -1133,6 +1133,11 @@
           "prestige" : "65",
           "hexColor" : "#003087",
           "rival" : ["UNC", "NCST", "WF"],
+          "rivalryNames" : {
+            "UNC": "Battle of Tobacco Road",
+            "NCST": "Battle of Tobacco Road",
+	    "WF": "Battle of Tobacco Road",
+          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -1273,10 +1278,11 @@
         },
         {
 	  "abbreviation" : "NCST",
-          "rival" : ["UNC", "SC", "WF"],
+          "rival" : ["UNC", "DUKE", "WF"],
           "rivalryNames" : {
             "UNC": "Battle of Tobacco Road",
-            "WF": "Battle of Tobacco Road",
+            "DUKE": "Battle of Tobacco Road",
+	    "WF": "Battle of Tobacco Road",
           },
           "prestige" : "75",
           "hexColor" : "#CC0000",
@@ -1339,11 +1345,12 @@
 						"name": "Tommy Thigpen",
 						"contractYear": "1"
 					},
-          "rival" : ["NCST", "SC", "UVA", "ND"],
+          "rival" : ["NCST", "DUKE", "UVA", "ND", "WF"],
           "rivalryNames" : {
             "UVA": "The South's Oldest Rivalry",
-            "SC": "Battle for the Carolinas",
             "NCST": "Battle of Tobacco Road",
+            "DUKE": "Battle of Tobacco Road",
+	    "WF": "Battle of Tobacco Road",
           },
           "headCoach" : {
             "contractLength" : "5",
