@@ -2440,7 +2440,7 @@
         },
         {
           "abbreviation" : "LOU",
-          "prestige" : "69",
+          "prestige" : "70",
           "hexColor" : "#AD0000",
           "rival" : ["CIN", "MEM", "WVU"],
           "rivalryNames" : {
@@ -2467,7 +2467,7 @@
         },
         {
           "abbreviation" : "SYR",
-          "prestige" : "64",
+          "prestige" : "67",
           "hexColor" : "#F76900",
           "rival" : "WVU",
           "rivalryNames" : {
@@ -2494,7 +2494,7 @@
         },
         {
           "abbreviation" : "RUT",
-          "prestige" : "65",
+          "prestige" : "67",
           "hexColor" : "#CC0033",
           "rival" : "TEM",
           "headCoach" : {
@@ -2623,7 +2623,7 @@
         },
         {
           "abbreviation" : "BC",
-          "prestige" : "68",
+          "prestige" : "74",
           "hexColor" : "#8a100b",
           "rival" : "CONN",
           "headCoach" : {
