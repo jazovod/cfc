@@ -205,10 +205,9 @@
 						"name": "Tim Banks",
 						"contractYear": "0"
 					},
-          "rival" : ["ALA", "UK"],
+          "rival" : "ALA",
           "rivalryNames" : {
-            "ALA": "3rd Saturday of October",
-            "UK": "Battle for the Beer Barrel"
+            "ALA": "3rd Saturday of October"
           },
           "headCoach" : {
             "contractLength" : "7",
