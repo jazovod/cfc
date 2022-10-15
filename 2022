@@ -1129,11 +1129,6 @@
           "prestige" : "66",
           "hexColor" : "#003087",
           "rival" : ["UNC", "NCST", "WF"],
-          "rivalryNames" : {
-            "UNC": "Battle of Tobacco Road",
-            "NCST": "Battle of Tobacco Road",
-	    "WF": "Battle of Tobacco Road",
-          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -1277,11 +1272,6 @@
           "prestige" : "75",
           "hexColor" : "#CC0000",
           "rival" : ["UNC", "DUKE", "WF"],
-          "rivalryNames" : {
-            "UNC": "Battle of Tobacco Road",
-            "DUKE": "Battle of Tobacco Road",
-	    "WF": "Battle of Tobacco Road",
-          },
           "offCoordinator": {
             "name": "Tim Beck",
             "age": "55",
@@ -1344,9 +1334,6 @@
           "rival" : ["NCST", "DUKE", "UVA", "ND", "WF"],
           "rivalryNames" : {
             "UVA": "The South's Oldest Rivalry",
-            "NCST": "Battle of Tobacco Road",
-            "DUKE": "Battle of Tobacco Road",
-	    "WF": "Battle of Tobacco Road",
           },
           "headCoach" : {
             "contractLength" : "5",
