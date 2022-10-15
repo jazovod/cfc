@@ -2375,10 +2375,10 @@
             "name": "Ilaisa Tuiaki",
             "age": "40",
           },
-          "rival" : ["VT", "CUSE", "PITT", "MRSH"],
+          "rival" : ["VT", "SYR", "PITT", "MRSH"],
           "rivalryNames" : {
             "MRSH": "Friends of Coal Bowl",
-            "CUSE": "Battle for the Schwartzwalder Trophy",
+            "SYR": "Battle for the Schwartzwalder Trophy",
             "VT": "Battle for the Black Diamond Trophy",
             "PITT": "Backyard Brawl",
           },
@@ -2441,10 +2441,9 @@
           "abbreviation" : "LOU",
           "prestige" : "69",
           "hexColor" : "#AD0000",
-          "rival" : ["TU", "KTY", "CIN", "MEM", "WVU", "UK"],
+          "rival" : ["CIN", "MEM", "WVU"],
           "rivalryNames" : {
             "CIN": "Battle for the Keg of Nails",
-            "UK": "Governor's Cup"
           },
           "headCoach" : {
             "contractLength" : "6",
@@ -2659,7 +2658,8 @@
           },
           "rival" : ["ND", "PSU"],
           "rivalryNames" : {
-            "PSU": "Keystone Classic"
+	    "PITT" : "Backyard Brawl",
+            "PSU" : "Keystone Classic"
           },
           "headCoach" : {
             "contractLength" : "6",
@@ -2682,7 +2682,7 @@
         }
       ],
       "confFullName" : "Big East",
-      "confPrestige" : "62",
+      "confPrestige" : "32",
       "confName" : "EAST"
     },
     {
@@ -3793,7 +3793,7 @@
           "state" : "Florida"
         },
         {
-          "abbreviation" : "MAR",
+          "abbreviation" : "MRSH",
           "prestige" : "37",
           "hexColor" : "#00B140",
           "rival" : "ODU",
