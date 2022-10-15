@@ -1250,8 +1250,16 @@
             "UGA": "Clean, Old-Fashioned Hate",
             "VT": "Battle of the Techs",
           },
+          "offCoordinator": {
+            "name": "Chip Long",
+            "age": "39",
+          },
+          "defCoordinator": {
+            "name": "Andrew Thacker",
+            "age": "37",
+          },
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "1",
             "startYear" : "2022",
             "age" : "44",
             "ratOff" : "73",
@@ -1278,6 +1286,14 @@
             "UNC": "Battle of Tobacco Road",
             "DUKE": "Battle of Tobacco Road",
 	    "WF": "Battle of Tobacco Road",
+          },
+          "offCoordinator": {
+            "name": "Tim Beck",
+            "age": "55",
+          },
+          "defCoordinator": {
+            "name": "Tony Gibson",
+            "age": "49",
           },
           "headCoach" : {
             "contractLength" : "6",
