@@ -1647,42 +1647,34 @@
           "name" : "Oklahoma",
           "state" : "Oklahoma"
         },
-
-        {
-          "abbreviation" : "TCU",
-          "prestige" : "80",
-          "hexColor" : "#4D1979",
-          "offCoordinator": {
-            "name": "Garrett Riley",
-            "age": "32",
-          },
-          "defCoordinator": {
-            "name": "Joe Gillespie",
-            "age": "50",
-          },
-          "rival" : ["BAYL", "SMU"],
+	{
+          "abbreviation" : "CU",
+          "prestige" : "77",
+          "hexColor" : "#CFB87C",
+          "rival" : ["NEB", "CSU", "UTAH"],
           "rivalryNames" : {
-            "BAYL": "Holy War",
-            "SMU": "Battle for the Iron Skillet",
+            "NEB": "Nebraska-Colorado Classic",
+            "CSU": "Rocky Mountain Showdown",
+            "UTAH": "Rumble in the Rockies"
           },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "52",
-            "ratOff" : "79",
-            "cumulativePrestige" : "40",
-            "ratDef" : "73",
-            "homeState" : "Texas",
-            "ratPot" : "69",
-            "ratTalent" : "74",
-            "baselinePrestige" : "72",
-            "ratDiscipline" : "82",
-            "ratOvr" : "76",
-            "name" : "Sonny Dykes",
+            "age" : "58",
+            "ratOff" : "75",
+            "cumulativePrestige" : "4",
+            "ratDef" : "70",
+            "homeState" : "California",
+            "ratPot" : "68",
+            "ratTalent" : "66",
+            "baselinePrestige" : "74",
+            "ratDiscipline" : "68",
+            "ratOvr" : "71",
+            "name" : "Karl Dorrell",
             "contractYear" : "0"
           },
-          "name" : "TCU",
-          "state" : "Texas"
+          "name" : "Colorado",
+          "state" : "Colorado"
         },
         {
           "abbreviation" : "BAYL",
@@ -2268,95 +2260,60 @@
           "name" : "Oregon State",
           "state" : "Oregon"
         },
-        {
-          "abbreviation" : "UTAH",
-          "prestige" : "81",
-          "hexColor" : "#CC0000",
-					"offCoordinator": {
-						"contractLength": "7",
-						"startYear": "2021",
-						"age": "57",
-						"cumulativePrestige": "0",
-						"homeState": "Utah",
-						"ratPot": "54",
-						"hometown": "Ogden",
-						"ratTalent": "80",
-						"baselinePrestige": "70",
-						"coachingAbility": "76",
-						"name": "Andy Ludwig",
-						"contractYear": "0"
-					},
-					"defCoordinator": {
-						"contractLength": "7",
-						"startYear": "2021",
-						"age": "42",
-						"cumulativePrestige": "0",
-						"homeState": "Utah",
-						"ratPot": "72",
-						"hometown": "Salt Lake City",
-						"ratTalent": "83",
-						"baselinePrestige": "70",
-						"coachingAbility": "77",
-						"name": "Morgan Scalley",
-						"contractYear": "0"
-					},
-          "rival" : ["BYU", "CU", "USU"],
+	{
+          "abbreviation" : "ARIZ",
+          "prestige" : "72",
+          "hexColor" : "#003366",
+          "rival" : "ASU",
           "rivalryNames" : {
-            "CU": "Rumble in the Rockies",
-            "BYU": "The Holy War",
-            "USU": "Battle of the Brothers"
+            "ASU": "Duel in the Desert"
           },
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2022",
-            "age" : "59",
-            "ratOff" : "76",
-            "cumulativePrestige" : "30",
-            "ratDef" : "83",
-            "homeState" : "California",
-            "ratPot" : "61",
-            "ratTalent" : "84",
-            "baselinePrestige" : "70",
-            "ratDiscipline" : "76",
-            "ratOvr" : "82",
-            "name" : "Kyle Whittingham",
+            "age" : "45",
+            "ratOff" : "80",
+            "cumulativePrestige" : "4",
+            "ratDef" : "73",
+            "homeState" : "New Jersey",
+            "ratPot" : "73",
+            "ratTalent" : "74",
+            "baselinePrestige" : "65",
+            "ratDiscipline" : "78",
+            "ratOvr" : "76",
+            "name" : "Jedd Fisch",
             "contractYear" : "0"
           },
-          "name" : "Utah",
-          "state" : "Utah"
+          "name" : "Arizona",
+          "state" : "Arizona"
         },
         {
-          "abbreviation" : "BYU",
-          "prestige" : "77",
-          "hexColor" : "#002E5D",
-          "offCoordinator": {
-            "name": "Aaron Roderick",
-            "age": "49",
+          "abbreviation" : "ASU",
+          "prestige" : "75",
+          "hexColor" : "#8C1D40",
+          "rival" : "ARIZ",
+          "rivalryNames" : {
+            "ARIZ": "Duel in the Desert"
           },
-          "defCoordinator": {
-            "name": "Ilaisa Tuiaki",
-            "age": "43",
-          },
-          "rival" : "UTAH",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2022",
-            "age" : "46",
-            "ratOff" : "76",
-            "cumulativePrestige" : "2",
-            "ratDef" : "77",
-            "homeState" : "Hawaii",
-            "ratPot" : "61",
-            "ratTalent" : "72",
-            "baselinePrestige" : "50",
-            "ratDiscipline" : "79",
-            "ratOvr" : "76",
-            "name" : "Kalani Sitake",
+            "age" : "67",
+            "ratOff" : "77",
+            "cumulativePrestige" : "0",
+            "ratDef" : "79",
+            "homeState" : "New Jersey",
+            "ratPot" : "66",
+            "ratTalent" : "76",
+            "baselinePrestige" : "72",
+            "ratDiscipline" : "75",
+            "ratOvr" : "77",
+            "name" : "Herm Edwards",
             "contractYear" : "0"
           },
-          "name" : "BYU",
-          "state" : "Utah"
-        }
+          "name" : "Arizona State",
+          "state" : "Arizona"
+        },
       ],
       "confFullName" : "Pac 12",
       "confPrestige" : "90",
@@ -2946,87 +2903,76 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "ARIZ",
-          "prestige" : "72",
-          "hexColor" : "#003366",
-          "rival" : "ASU",
-          "rivalryNames" : {
-            "ASU": "Duel in the Desert"
+          "abbreviation" : "UNLV",
+          "prestige" : "41",
+          "hexColor" : "#B10202",
+          "rival" : "NEV",
+          "headCoach" : {
+            "contractLength" : "3",
+            "startYear" : "2022",
+            "age" : "41",
+            "ratOff" : "68",
+            "cumulativePrestige" : "2",
+            "ratDef" : "62",
+            "homeState" : "California",
+            "ratPot" : "71",
+            "ratTalent" : "57",
+            "baselinePrestige" : "50",
+            "ratDiscipline" : "79",
+            "ratOvr" : "63",
+            "name" : "Marcus Arroyo",
+            "contractYear" : "0"
           },
+          "name" : "UNLV",
+          "state" : "Nevada"
+        },
+        {
+          "abbreviation" : "NEV",
+          "prestige" : "41",
+          "hexColor" : "#003366",
+          "rival" : "UNLV",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
-            "age" : "45",
-            "ratOff" : "80",
-            "cumulativePrestige" : "4",
-            "ratDef" : "73",
-            "homeState" : "New Jersey",
-            "ratPot" : "73",
-            "ratTalent" : "74",
-            "baselinePrestige" : "65",
-            "ratDiscipline" : "78",
-            "ratOvr" : "76",
-            "name" : "Jedd Fisch",
-            "contractYear" : "0"
-          },
-          "name" : "Arizona",
-          "state" : "Arizona"
-        },
-        {
-          "abbreviation" : "ASU",
-          "prestige" : "75",
-          "hexColor" : "#8C1D40",
-          "rival" : "ARIZ",
-          "rivalryNames" : {
-            "ARIZ": "Duel in the Desert"
-          },
-          "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2022",
-            "age" : "67",
-            "ratOff" : "77",
+            "age" : "60",
+            "ratOff" : "65",
             "cumulativePrestige" : "0",
-            "ratDef" : "79",
-            "homeState" : "New Jersey",
-            "ratPot" : "66",
-            "ratTalent" : "76",
-            "baselinePrestige" : "72",
-            "ratDiscipline" : "75",
-            "ratOvr" : "77",
-            "name" : "Herm Edwards",
+            "ratDef" : "77",
+            "homeState" : "Illinois",
+            "ratPot" : "78",
+            "ratTalent" : "73",
+            "baselinePrestige" : "43",
+            "ratDiscipline" : "72",
+            "ratOvr" : "72",
+            "name" : "Steve Addazio",
             "contractYear" : "0"
           },
-          "name" : "Arizona State",
-          "state" : "Arizona"
+          "name" : "Nevada",
+          "state" : "Nevada"
         },
         {
-          "abbreviation" : "CU",
-          "prestige" : "75",
-          "hexColor" : "#CFB87C",
-          "rival" : ["NEB", "CSU", "UTAH"],
-          "rivalryNames" : {
-            "NEB": "Nebraska-Colorado Classic",
-            "CSU": "Rocky Mountain Showdown",
-            "UTAH": "Rumble in the Rockies"
-          },
+          "abbreviation" : "HAW",
+          "prestige" : "38",
+          "hexColor" : "#024731",
+          "rival" : "SJSU",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "58",
-            "ratOff" : "75",
-            "cumulativePrestige" : "4",
-            "ratDef" : "70",
-            "homeState" : "California",
-            "ratPot" : "68",
-            "ratTalent" : "66",
-            "baselinePrestige" : "74",
-            "ratDiscipline" : "68",
-            "ratOvr" : "71",
-            "name" : "Karl Dorrell",
+            "age" : "55",
+            "ratOff" : "68",
+            "cumulativePrestige" : "0",
+            "ratDef" : "58",
+            "homeState" : "Texas",
+            "ratPot" : "70",
+            "ratTalent" : "48",
+            "baselinePrestige" : "40",
+            "ratDiscipline" : "78",
+            "ratOvr" : "58",
+            "name" : "Todd Graham",
             "contractYear" : "0"
           },
-          "name" : "Colorado",
-          "state" : "Colorado"
+          "name" : "Hawaii",
+          "state" : "Hawaii"
         },
         {
           "abbreviation" : "UNM",
@@ -3099,30 +3045,6 @@
           },
           "name" : "UTSA",
           "state" : "Texas"
-        },
-        {
-          "abbreviation" : "NMST",
-          "prestige" : "46",
-          "hexColor" : "#861F41",
-          "rival" : "UNM",
-          "headCoach" : {
-            "contractLength" : "3",
-            "startYear" : "2022",
-            "age" : "60",
-            "ratOff" : "66",
-            "cumulativePrestige" : "0",
-            "ratDef" : "70",
-            "homeState" : "Kansas",
-            "ratPot" : "73",
-            "ratTalent" : "79",
-            "baselinePrestige" : "43",
-            "ratDiscipline" : "69",
-            "ratOvr" : "72",
-            "name" : "Jerry Kill",
-            "contractYear" : "0"
-          },
-          "name" : "New Mexico State",
-          "state" : "New Mexico"
         },
         {
           "abbreviation" : "RICE",
@@ -3227,6 +3149,131 @@
           "name" : "Boise State",
           "state" : "Idaho"
         },
+	{
+          "abbreviation" : "TCU",
+          "prestige" : "80",
+          "hexColor" : "#4D1979",
+          "offCoordinator": {
+            "name": "Garrett Riley",
+            "age": "32",
+          },
+          "defCoordinator": {
+            "name": "Joe Gillespie",
+            "age": "50",
+          },
+          "rival" : ["BAYL", "SMU"],
+          "rivalryNames" : {
+            "BAYL": "Holy War",
+            "SMU": "Battle for the Iron Skillet",
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2022",
+            "age" : "52",
+            "ratOff" : "79",
+            "cumulativePrestige" : "40",
+            "ratDef" : "73",
+            "homeState" : "Texas",
+            "ratPot" : "69",
+            "ratTalent" : "74",
+            "baselinePrestige" : "72",
+            "ratDiscipline" : "82",
+            "ratOvr" : "76",
+            "name" : "Sonny Dykes",
+            "contractYear" : "0"
+          },
+          "name" : "TCU",
+          "state" : "Texas"
+        },
+	{
+          "abbreviation" : "UTAH",
+          "prestige" : "81",
+          "hexColor" : "#CC0000",
+					"offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "57",
+						"cumulativePrestige": "0",
+						"homeState": "Utah",
+						"ratPot": "54",
+						"hometown": "Ogden",
+						"ratTalent": "80",
+						"baselinePrestige": "70",
+						"coachingAbility": "76",
+						"name": "Andy Ludwig",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2021",
+						"age": "42",
+						"cumulativePrestige": "0",
+						"homeState": "Utah",
+						"ratPot": "72",
+						"hometown": "Salt Lake City",
+						"ratTalent": "83",
+						"baselinePrestige": "70",
+						"coachingAbility": "77",
+						"name": "Morgan Scalley",
+						"contractYear": "0"
+					},
+          "rival" : ["BYU", "CU", "USU"],
+          "rivalryNames" : {
+            "CU": "Rumble in the Rockies",
+            "BYU": "The Holy War",
+            "USU": "Battle of the Brothers"
+          },
+          "headCoach" : {
+            "contractLength" : "6",
+            "startYear" : "2022",
+            "age" : "59",
+            "ratOff" : "76",
+            "cumulativePrestige" : "30",
+            "ratDef" : "83",
+            "homeState" : "California",
+            "ratPot" : "61",
+            "ratTalent" : "84",
+            "baselinePrestige" : "70",
+            "ratDiscipline" : "76",
+            "ratOvr" : "82",
+            "name" : "Kyle Whittingham",
+            "contractYear" : "0"
+          },
+          "name" : "Utah",
+          "state" : "Utah"
+        },
+        {
+          "abbreviation" : "BYU",
+          "prestige" : "77",
+          "hexColor" : "#002E5D",
+          "offCoordinator": {
+            "name": "Aaron Roderick",
+            "age": "49",
+          },
+          "defCoordinator": {
+            "name": "Ilaisa Tuiaki",
+            "age": "43",
+          },
+          "rival" : "UTAH",
+          "headCoach" : {
+            "contractLength" : "4",
+            "startYear" : "2022",
+            "age" : "46",
+            "ratOff" : "76",
+            "cumulativePrestige" : "2",
+            "ratDef" : "77",
+            "homeState" : "Hawaii",
+            "ratPot" : "61",
+            "ratTalent" : "72",
+            "baselinePrestige" : "50",
+            "ratDiscipline" : "79",
+            "ratOvr" : "76",
+            "name" : "Kalani Sitake",
+            "contractYear" : "0"
+          },
+          "name" : "BYU",
+          "state" : "Utah"
+        },
         {
           "abbreviation" : "FRES",
           "prestige" : "55",
@@ -3250,30 +3297,6 @@
           },
           "name" : "Fresno State",
           "state" : "California"
-        },
-        {
-          "abbreviation" : "UNLV",
-          "prestige" : "41",
-          "hexColor" : "#B10202",
-          "rival" : "NEV",
-          "headCoach" : {
-            "contractLength" : "3",
-            "startYear" : "2022",
-            "age" : "41",
-            "ratOff" : "68",
-            "cumulativePrestige" : "2",
-            "ratDef" : "62",
-            "homeState" : "California",
-            "ratPot" : "71",
-            "ratTalent" : "57",
-            "baselinePrestige" : "50",
-            "ratDiscipline" : "79",
-            "ratOvr" : "63",
-            "name" : "Marcus Arroyo",
-            "contractYear" : "0"
-          },
-          "name" : "UNLV",
-          "state" : "Nevada"
         },
         {
           "abbreviation" : "USU",
@@ -3324,30 +3347,6 @@
           "state" : "Wyoming"
         },
         {
-          "abbreviation" : "NEV",
-          "prestige" : "41",
-          "hexColor" : "#003366",
-          "rival" : "UNLV",
-          "headCoach" : {
-            "contractLength" : "5",
-            "startYear" : "2022",
-            "age" : "60",
-            "ratOff" : "65",
-            "cumulativePrestige" : "0",
-            "ratDef" : "77",
-            "homeState" : "Illinois",
-            "ratPot" : "78",
-            "ratTalent" : "73",
-            "baselinePrestige" : "43",
-            "ratDiscipline" : "72",
-            "ratOvr" : "72",
-            "name" : "Steve Addazio",
-            "contractYear" : "0"
-          },
-          "name" : "Nevada",
-          "state" : "Nevada"
-        },
-        {
           "abbreviation" : "SDSU",
           "prestige" : "56",
           "hexColor" : "#A6192E",
@@ -3394,30 +3393,6 @@
           },
           "name" : "San Jose State",
           "state" : "California"
-        },
-        {
-          "abbreviation" : "HI",
-          "prestige" : "38",
-          "hexColor" : "#024731",
-          "rival" : "SJSU",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2022",
-            "age" : "55",
-            "ratOff" : "68",
-            "cumulativePrestige" : "0",
-            "ratDef" : "58",
-            "homeState" : "Texas",
-            "ratPot" : "70",
-            "ratTalent" : "48",
-            "baselinePrestige" : "40",
-            "ratDiscipline" : "78",
-            "ratOvr" : "58",
-            "name" : "Todd Graham",
-            "contractYear" : "0"
-          },
-          "name" : "Hawaii",
-          "state" : "Hawaii"
         },
         {
           "abbreviation" : "USAF",
