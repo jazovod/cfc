@@ -92,9 +92,10 @@
 						"name": "Will Muschamp",
 						"contractYear": "0"
 					},
-          "rival" : "UF",
+          "rival" : ["UF", "GT"],
           "rivalryNames" : {
-            "FLA": "World's Largest Cocktail Party",
+            "UF": "World's Largest Cocktail Party",
+	    "GT": "Clean, Old-Fashioned Hate"
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -1102,7 +1103,7 @@
             "name": "Brad Lambert",
             "age": "56",
           },
-          "rival" : ["MD", "UNC", "NCST", "WF"],
+          "rival" : ["UNC", "NCST", "WF"],
           "rivalryNames" : {
             "UNC": "Battle of Tobacco Road",
             "NCST": "Battle of Tobacco Road",
@@ -1270,7 +1271,7 @@
             "baselinePrestige" : "68",
             "ratDiscipline" : "70",
             "ratOvr" : "70",
-            "name" : "Dave Doeren",
+            "name" : "Brent Key",
             "contractYear" : "0"
           },
           "name" : "Georgia Tech",
@@ -2682,7 +2683,7 @@
         }
       ],
       "confFullName" : "Big East",
-      "confPrestige" : "32",
+      "confPrestige" : "62",
       "confName" : "EAST"
     },
     {
