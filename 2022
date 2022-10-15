@@ -1125,41 +1125,42 @@
           "name" : "Pitt",
           "state" : "Pennsylvania"
         },
-        {
-          "abbreviation" : "VT",
-          "prestige" : "81",
-          "hexColor" : "#861F41",
+       	{
+          "abbreviation" : "WF",
+          "prestige" : "68",
+          "hexColor" : "#9E7E38",
           "offCoordinator": {
-            "name": "Chris Marve",
-            "age": "32",
+            "name": "Warren Ruggerio",
+            "age": "55",
           },
           "defCoordinator": {
-            "name": "Tyler Bowen",
-            "age": "32",
+            "name": "Brad Lambert",
+            "age": "56",
           },
-          "rival" : ["UVA", "WVU"],
+          "rival" : ["MD", "UNC", "NCST"],
           "rivalryNames" : {
-            "UVA": "Battle for the Commonwealth Trophy",
-            "WVU": "Battle for the Black Diamond Trophy",
+            "UNC": "Battle of Tobacco Road",
+            "NCST": "Battle of Tobacco Road"
           },
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "5",
             "startYear" : "2022",
-            "age" : "51",
-            "ratOff" : "71",
-            "cumulativePrestige" : "5",
-            "ratDef" : "77",
-            "homeState" : "Oklahoma",
-            "ratPot" : "72",
-            "ratTalent" : "76",
-            "baselinePrestige" : "72",
-            "ratDiscipline" : "69",
-            "ratOvr" : "75",
-            "name" : "Brent Pry",
+            "age" : "54",
+            "ratOff" : "84",
+            "cumulativePrestige" : "0",
+            "ratDef" : "58",
+            "hometown": "Youngstown",
+            "homeState" : "New York",
+            "ratPot" : "63",
+            "ratTalent" : "73",
+            "baselinePrestige" : "60",
+            "ratDiscipline" : "56",
+            "ratOvr" : "73",
+            "name" : "Dave Clawson",
             "contractYear" : "0"
           },
-          "name" : "Virginia Tech",
-          "state" : "Virginia"
+          "name" : "Wake Forest",
+          "state" : "North Carolina"
         },
         {
           "abbreviation" : "SC",
@@ -1241,62 +1242,32 @@
           "name" : "Florida State",
           "state" : "Florida"
         },
-        {
-          "abbreviation" : "MIA",
-          "prestige" : "84",
-          "hexColor" : "#005030",
-          "offCoordinator": {
-						"contractLength": "7",
-						"startYear": "2022",
-						"age": "38",
-						"cumulativePrestige": "0",
-						"homeState": "Texas",
-						"ratPot": "76",
-						"hometown": "Pilot Point",
-						"ratTalent": "75",
-						"baselinePrestige": "70",
-						"coachingAbility": "73",
-						"name": "Bryan McClendon",
-						"contractYear": "0"
-					},
-					"defCoordinator": {
-						"contractLength": "7",
-						"startYear": "2022",
-						"age": "46",
-						"cumulativePrestige": "0",
-						"homeState": "Florida",
-						"ratPot": "65",
-						"hometown": "Homestead",
-						"ratTalent": "69",
-						"baselinePrestige": "73",
-						"coachingAbility": "77",
-						"name": "Joe Salavea",
-						"contractYear": "0"
-					},
-          "rival" : ["FSU", "UF", "ND"],
+	{
+          "abbreviation" : "MD",
+          "prestige" : "66",
+          "hexColor" : "#E03A3E",
+          "rival" : ["NAVY", "WF"],
           "rivalryNames" : {
-            "UF": "Seminole War Canoe",
-            "FSU": "Florida Cup",
-            "ND": "Catholics vs Convicts"
+            "NAVY": "Crab Bowl Classic"
           },
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "51",
-            "ratOff" : "83",
-            "cumulativePrestige" : "3",
-            "ratDef" : "76",
-            "homeState" : "Florida",
-            "ratPot" : "74",
-            "ratTalent" : "82",
+            "age" : "52",
+            "ratOff" : "80",
+            "cumulativePrestige" : "0",
+            "ratDef" : "60",
+            "homeState" : "Pennsylvania",
+            "ratPot" : "72",
+            "ratTalent" : "72",
             "baselinePrestige" : "70",
-            "ratDiscipline" : "73",
-            "ratOvr" : "81",
-            "name" : "Mario Cristobal",
+            "ratDiscipline" : "69",
+            "ratOvr" : "73",
+            "name" : "Mike Locksley",
             "contractYear" : "0"
           },
-          "name" : "Miami",
-          "state" : "Florida"
+          "name" : "Maryland",
+          "state" : "Maryland"
         },
         {
           "rival" : ["UNC", "SC", "WF"],
@@ -2422,6 +2393,42 @@
           "name" : "West Virginia",
           "state" : "West Virginia"
         },
+	{
+          "abbreviation" : "VT",
+          "prestige" : "81",
+          "hexColor" : "#861F41",
+          "offCoordinator": {
+            "name": "Chris Marve",
+            "age": "32",
+          },
+          "defCoordinator": {
+            "name": "Tyler Bowen",
+            "age": "32",
+          },
+          "rival" : ["UVA", "WVU"],
+          "rivalryNames" : {
+            "UVA": "Battle for the Commonwealth Trophy",
+            "WVU": "Battle for the Black Diamond Trophy",
+          },
+          "headCoach" : {
+            "contractLength" : "7",
+            "startYear" : "2022",
+            "age" : "51",
+            "ratOff" : "71",
+            "cumulativePrestige" : "5",
+            "ratDef" : "77",
+            "homeState" : "Oklahoma",
+            "ratPot" : "72",
+            "ratTalent" : "76",
+            "baselinePrestige" : "72",
+            "ratDiscipline" : "69",
+            "ratOvr" : "75",
+            "name" : "Brent Pry",
+            "contractYear" : "0"
+          },
+          "name" : "Virginia Tech",
+          "state" : "Virginia"
+        },
         {
           "abbreviation" : "LOU",
           "prestige" : "66",
@@ -2501,32 +2508,62 @@
           "name" : "Rutgers",
           "state" : "New Jersey"
         },
-        {
-          "abbreviation" : "MD",
-          "prestige" : "66",
-          "hexColor" : "#E03A3E",
-          "rival" : ["NAVY", "WF"],
+	 {
+          "abbreviation" : "MIA",
+          "prestige" : "84",
+          "hexColor" : "#005030",
+          "offCoordinator": {
+						"contractLength": "7",
+						"startYear": "2022",
+						"age": "38",
+						"cumulativePrestige": "0",
+						"homeState": "Texas",
+						"ratPot": "76",
+						"hometown": "Pilot Point",
+						"ratTalent": "75",
+						"baselinePrestige": "70",
+						"coachingAbility": "73",
+						"name": "Bryan McClendon",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "7",
+						"startYear": "2022",
+						"age": "46",
+						"cumulativePrestige": "0",
+						"homeState": "Florida",
+						"ratPot": "65",
+						"hometown": "Homestead",
+						"ratTalent": "69",
+						"baselinePrestige": "73",
+						"coachingAbility": "77",
+						"name": "Joe Salavea",
+						"contractYear": "0"
+					},
+          "rival" : ["FSU", "UF", "ND"],
           "rivalryNames" : {
-            "NAVY": "Crab Bowl Classic"
+            "UF": "Seminole War Canoe",
+            "FSU": "Florida Cup",
+            "ND": "Catholics vs Convicts"
           },
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2022",
-            "age" : "52",
-            "ratOff" : "80",
-            "cumulativePrestige" : "0",
-            "ratDef" : "60",
-            "homeState" : "Pennsylvania",
-            "ratPot" : "72",
-            "ratTalent" : "72",
+            "age" : "51",
+            "ratOff" : "83",
+            "cumulativePrestige" : "3",
+            "ratDef" : "76",
+            "homeState" : "Florida",
+            "ratPot" : "74",
+            "ratTalent" : "82",
             "baselinePrestige" : "70",
-            "ratDiscipline" : "69",
-            "ratOvr" : "73",
-            "name" : "Mike Locksley",
+            "ratDiscipline" : "73",
+            "ratOvr" : "81",
+            "name" : "Mario Cristobal",
             "contractYear" : "0"
           },
-          "name" : "Maryland",
-          "state" : "Maryland"
+          "name" : "Miami",
+          "state" : "Florida"
         },
         {
           "abbreviation" : "TEM",
@@ -2577,42 +2614,6 @@
           "state" : "Connecticut"
         },
         {
-          "abbreviation" : "UK",
-          "prestige" : "70",
-          "hexColor" : "#0033A0",
-          "offCoordinator": {
-            "name": "Liam Coen",
-            "age": "38",
-          },
-          "defCoordinator": {
-            "name": "Brad White",
-            "age": "39",
-          },
-          "rival" : ["LOU", "TEN"],
-          "rivalryNames" : {
-            "LOU": "Governor's Cup",
-            "TEN": "Battle for the Beer Barrel"
-          },
-          "headCoach" : {
-            "contractLength" : "7",
-            "startYear" : "2022",
-            "age" : "54",
-            "ratOff" : "74",
-            "cumulativePrestige" : "20",
-            "ratDef" : "82",
-            "homeState" : "Ohio",
-            "ratPot" : "68",
-            "ratTalent" : "81",
-            "baselinePrestige" : "60",
-            "ratDiscipline" : "74",
-            "ratOvr" : "80",
-            "name" : "Mark Stoops",
-            "contractYear" : "0"
-          },
-          "name" : "Kentucky",
-          "state" : "Kentucky"
-        },
-        {
           "abbreviation" : "BC",
           "prestige" : "57",
           "hexColor" : "#8a100b",
@@ -2637,42 +2638,40 @@
           "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "WF",
-          "prestige" : "68",
-          "hexColor" : "#9E7E38",
+          "abbreviation" : "PITT",
+          "prestige" : "78",
+          "hexColor" : "#003594",
           "offCoordinator": {
-            "name": "Warren Ruggerio",
-            "age": "55",
+            "name": "Chris Beatty",
+            "age" : "48",
           },
           "defCoordinator": {
-            "name": "Brad Lambert",
-            "age": "56",
+            "name": "Randy Bates",
+            "age" : "61",
           },
-          "rival" : ["MD", "UNC", "NCST"],
+          "rival" : ["ND", "PSU"],
           "rivalryNames" : {
-            "UNC": "Battle of Tobacco Road",
-            "NCST": "Battle of Tobacco Road"
+            "PSU": "Keystone Classic"
           },
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "54",
-            "ratOff" : "84",
-            "cumulativePrestige" : "0",
-            "ratDef" : "58",
-            "hometown": "Youngstown",
-            "homeState" : "New York",
-            "ratPot" : "63",
-            "ratTalent" : "73",
-            "baselinePrestige" : "60",
-            "ratDiscipline" : "56",
-            "ratOvr" : "73",
-            "name" : "Dave Clawson",
+            "age" : "53",
+            "ratOff" : "82",
+            "cumulativePrestige" : "15",
+            "ratDef" : "78",
+            "homeState" : "Connecticut",
+            "ratPot" : "72",
+            "ratTalent" : "74",
+            "baselinePrestige" : "70",
+            "ratDiscipline" : "80",
+            "ratOvr" : "81",
+            "name" : "Pat Narduzzi",
             "contractYear" : "0"
           },
-          "name" : "Wake Forest",
-          "state" : "North Carolina"
-        }
+          "name" : "Pitt",
+          "state" : "Pennsylvania"
+        },
       ],
       "confFullName" : "Big East",
       "confPrestige" : "32",
