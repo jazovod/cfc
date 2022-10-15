@@ -2647,7 +2647,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "65",
+          "prestige" : "68",
           "hexColor" : "#B7A369",
           "rival" : "USF",
           "rivalryNames" : {
@@ -2674,7 +2674,7 @@
         },
         {
           "abbreviation" : "USF",
-          "prestige" : "60",
+          "prestige" : "67",
           "hexColor" : "#006747",
           "rival" : "UCF",
           "rivalryNames" : {
@@ -2701,7 +2701,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "73",
+          "prestige" : "79",
           "hexColor" : "#E00112",
           "rival" : "MEM",
           "headCoach" : {
@@ -2725,7 +2725,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "56",
+          "prestige" : "59",
           "hexColor" : "#003087",
           "rival" : "CIN",
           "headCoach" : {
@@ -2821,7 +2821,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "62",
+          "prestige" : "66",
           "hexColor" : "#C8102E",
           "rival" : ["HOU", "TCU", "RICE"],
           "rivalryNames" : {
@@ -2904,9 +2904,12 @@
       "confTeams" : [
         {
           "abbreviation" : "UNLV",
-          "prestige" : "41",
+          "prestige" : "44",
           "hexColor" : "#B10202",
           "rival" : "NEV",
+	  "rivalryNames" : {
+		"UNLV" : "Fremont Cannon"
+	},
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2022",
@@ -2928,7 +2931,7 @@
         },
         {
           "abbreviation" : "NEV",
-          "prestige" : "41",
+          "prestige" : "47",
           "hexColor" : "#003366",
           "rival" : "UNLV",
           "headCoach" : {
@@ -2952,7 +2955,7 @@
         },
         {
           "abbreviation" : "HAW",
-          "prestige" : "38",
+          "prestige" : "40",
           "hexColor" : "#024731",
           "rival" : "SJSU",
           "headCoach" : {
@@ -2976,7 +2979,7 @@
         },
         {
           "abbreviation" : "LAT",
-          "prestige" : "36",
+          "prestige" : "43",
           "hexColor" : "#003087",
           "rival" : "USM",
           "headCoach" : {
@@ -3027,7 +3030,7 @@
         },
         {
           "abbreviation" : "RICE",
-          "prestige" : "48",
+          "prestige" : "51",
           "hexColor" : "#00205B",
           "rival" : "UTSA",
           "headCoach" : {
@@ -3075,7 +3078,7 @@
         },
         {
           "abbreviation" : "SJSU",
-          "prestige" : "40",
+          "prestige" : "45",
           "hexColor" : "#0055A2",
           "rival" : "HI",
           "headCoach" : {
@@ -3327,7 +3330,7 @@
         },
         {
           "abbreviation" : "USU",
-          "prestige" : "48",
+          "prestige" : "53",
           "hexColor" : "#00263A",
           "rival" : "BSU",
           "headCoach" : {
@@ -3351,7 +3354,7 @@
         },
         {
           "abbreviation" : "WYO",
-          "prestige" : "45",
+          "prestige" : "50",
           "hexColor" : "#492F24",
           "rival" : "USAF",
           "headCoach" : {
@@ -3375,7 +3378,7 @@
         },
         {
           "abbreviation" : "UNM",
-          "prestige" : "41",
+          "prestige" : "45",
           "hexColor" : "#ba0c2f",
           "rival" : "NMST",
           "headCoach" : {
@@ -3423,7 +3426,7 @@
         },
         {
           "abbreviation" : "USAF",
-          "prestige" : "36",
+          "prestige" : "48",
           "hexColor" : "#004F98",
           "rival" : "WYO",
           "headCoach" : {
@@ -3454,9 +3457,12 @@
       "confTeams" : [
         {
           "abbreviation" : "APP",
-          "prestige" : "41",
+          "prestige" : "61",
           "hexColor" : "#000000",
-          "rival" : "GS",
+          "rival" : ["JMU", "GS", "CCU"],
+	  "rivalryNames" : {
+		"GS" : "Deeper Than Hate"
+	},
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2022",
@@ -3478,7 +3484,7 @@
         },
         {
           "abbreviation" : "GS",
-          "prestige" : "36",
+          "prestige" : "40",
           "hexColor" : "#041E42",
           "rival" : "APP",
           "headCoach" : {
@@ -3526,7 +3532,7 @@
         },
         {
           "abbreviation" : "USA",
-          "prestige" : "33",
+          "prestige" : "43",
           "hexColor" : "#00205B",
           "rival" : "TROY",
           "headCoach" : {
@@ -3552,7 +3558,7 @@
           "abbreviation" : "AKSU",
           "prestige" : "34",
           "hexColor" : "#CC092F",
-          "rival" : "ULL",
+          "rival" : "MEM",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
@@ -3576,7 +3582,7 @@
           "abbreviation" : "ULL",
           "prestige" : "46",
           "hexColor" : "#A00B0B",
-          "rival" : "AKSU",
+          "rival" : "ULM",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
@@ -3598,9 +3604,9 @@
         },
         {
           "abbreviation" : "CCU",
-          "prestige" : "48",
+          "prestige" : "60",
           "hexColor" : "#006F71",
-          "rival" : "GSU",
+          "rival" : "APP",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2022",
@@ -3622,7 +3628,7 @@
         },
         {
           "abbreviation" : "GSU",
-          "prestige" : "33",
+          "prestige" : "43",
           "hexColor" : "#0039A6",
           "rival" : "CCU",
           "headCoach" : {
@@ -3645,34 +3651,34 @@
           "state" : "Georgia"
         },
         {
-          "abbreviation" : "TSU",
-          "prestige" : "31",
-          "hexColor" : "#501204",
-          "rival" : "ULM",
+          "abbreviation" : "JMU",
+          "prestige" : "53",
+          "hexColor" : "#450084",
+          "rival" : ["APP", "CCU", "UVA", "VT"],
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "35",
-            "ratOff" : "68",
+            "age" : "61",
+            "ratOff" : "73",
             "cumulativePrestige" : "0",
-            "ratDef" : "63",
-            "homeState" : "Oklahoma",
-            "ratPot" : "60",
-            "ratTalent" : "59",
+            "ratDef" : "70",
+            "homeState" : "Pennsylvanie",
+            "ratPot" : "70",
+            "ratTalent" : "69",
             "baselinePrestige" : "40",
             "ratDiscipline" : "73",
-            "ratOvr" : "71",
-            "name" : "Jake Spavital",
+            "ratOvr" : "73",
+            "name" : "Curt Cignetti",
             "contractYear" : "0"
           },
-          "name" : "Texas State",
-          "state" : "Texas"
+          "name" : "James Madison",
+          "state" : "Virginia"
         },
         {
           "abbreviation" : "ULM",
-          "prestige" : "32",
+          "prestige" : "42",
           "hexColor" : "#840029",
-          "rival" : "TSU",
+          "rival" : "ULL",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2022",
@@ -3701,7 +3707,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UAB",
-          "prestige" : "41",
+          "prestige" : "46",
           "hexColor" : "#1E6B52",
           "rival" : "CHAR",
           "headCoach" : {
@@ -3797,7 +3803,7 @@
         },
         {
           "abbreviation" : "FAU",
-          "prestige" : "34",
+          "prestige" : "39",
           "hexColor" : "#CC0000",
           "rival" : "FIU",
           "headCoach" : {
@@ -3821,7 +3827,7 @@
         },
         {
           "abbreviation" : "FIU",
-          "prestige" : "35",
+          "prestige" : "34",
           "hexColor" : "#081E3F",
           "rival" : "FAU",
           "headCoach" : {
@@ -3845,7 +3851,7 @@
         },
         {
           "abbreviation" : "MRSH",
-          "prestige" : "37",
+          "prestige" : "47",
           "hexColor" : "#00B140",
           "rival" : "ODU",
           "headCoach" : {
@@ -3917,7 +3923,7 @@
         },
         {
           "abbreviation" : "WKU",
-          "prestige" : "37",
+          "prestige" : "49",
           "hexColor" : "#B01E24",
           "rival" : "MTSU",
           "headCoach" : {
@@ -3971,14 +3977,14 @@
           "state" : "Michigan"
         },
         {
-          "abbreviation" : "NIU",
+          "abbreviation" : "EMU",
           "prestige" : "40",
-          "hexColor" : "#C8102E",
-          "rival" : "BALL",
+          "hexColor" : "#006633",
+          "rival" : ["CMU", "WMU"],
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2022",
-            "age" : "38",
+            "age" : "53",
             "ratOff" : "58",
             "cumulativePrestige" : "0",
             "ratDef" : "52",
@@ -3987,16 +3993,16 @@
             "ratTalent" : "60",
             "baselinePrestige" : "65",
             "ratDiscipline" : "78",
-            "ratOvr" : "70",
-            "name" : "Thomas Hammock",
+            "ratOvr" : "65",
+            "name" : "Chris Creighton",
             "contractYear" : "0"
           },
-          "name" : "Northern Illinois",
-          "state" : "Illinois"
+          "name" : "Eastern Michigan",
+          "state" : "EMU"
         },
         {
           "abbreviation" : "MOH",
-          "prestige" : "28",
+          "prestige" : "32",
           "hexColor" : "#C8102E",
           "rival" : "OH",
           "headCoach" : {
@@ -4020,7 +4026,7 @@
         },
         {
           "abbreviation" : "OH",
-          "prestige" : "29",
+          "prestige" : "33",
           "hexColor" : "#00694E",
           "rival" : "MOH",
           "headCoach" : {
@@ -4046,7 +4052,7 @@
           "abbreviation" : "WMU",
           "prestige" : "46",
           "hexColor" : "#6C4023",
-          "rival" : "BUF",
+          "rival" : "EMU",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2022",
@@ -4068,7 +4074,7 @@
         },
         {
           "abbreviation" : "TOL",
-          "prestige" : "35",
+          "prestige" : "36",
           "hexColor" : "#003E7E",
           "rival" : "BGSU",
           "headCoach" : {
@@ -4092,7 +4098,7 @@
         },
         {
           "abbreviation" : "BALL",
-          "prestige" : "34",
+          "prestige" : "35",
           "hexColor" : "#BA0C2F",
           "rival" : "NIU",
           "headCoach" : {
@@ -4116,7 +4122,7 @@
         },
         {
           "abbreviation" : "AKR",
-          "prestige" : "27",
+          "prestige" : "31",
           "hexColor" : "#041E42",
           "rival" : "KENT",
           "headCoach" : {
@@ -4140,7 +4146,7 @@
         },
         {
           "abbreviation" : "BGSU",
-          "prestige" : "28",
+          "prestige" : "32",
           "hexColor" : "#FF7300",
           "rival" : "TOL",
           "headCoach" : {
@@ -4164,7 +4170,7 @@
         },
         {
           "abbreviation" : "KENT",
-          "prestige" : "35",
+          "prestige" : "37",
           "hexColor" : "#0E1112",
           "rival" : "AKR",
           "headCoach" : {
@@ -4212,6 +4218,7 @@
   "Pinstripe Bowl",
   "Sun Bowl",
   "Duke's Mayo Bowl",
+  "Poinsettia Bowl",
   "Arizona Bowl",
   "Military Bowl",
   "First Responder Bowl",
@@ -4222,7 +4229,6 @@
   "New Mexico Bowl",
   "Guaranteed Rate Bowl",
   "Hawaii Bowl",
-  "Famous Idaho Potato Bowl",
   "New Orleans Bowl",
   "Armed Forces Bowl",
   "Bahamas Bowl"]
