@@ -213,15 +213,15 @@
             "contractLength" : "7",
             "startYear" : "2022",
             "age" : "43",
-            "ratOff" : "78",
+            "ratOff" : "84",
             "cumulativePrestige" : "3",
-            "ratDef" : "73",
+            "ratDef" : "75",
             "homeState" : "South Dakota",
             "ratPot" : "73",
             "ratTalent" : "81",
             "baselinePrestige" : "75",
             "ratDiscipline" : "62",
-            "ratOvr" : "78",
+            "ratOvr" : "82",
             "name" : "Josh Heupel",
             "contractYear" : "0"
           },
@@ -4225,6 +4225,5 @@
   "Famous Idaho Potato Bowl",
   "New Orleans Bowl",
   "Armed Forces Bowl",
-  "Bahamas Bowl",
-  "Quick Lane Bowl"]
+  "Bahamas Bowl"]
 }
