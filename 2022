@@ -1090,41 +1090,6 @@
           "name" : "Clemson",
           "state" : "South Carolina"
         },
-        {
-          "abbreviation" : "PITT",
-          "prestige" : "78",
-          "hexColor" : "#003594",
-          "offCoordinator": {
-            "name": "Chris Beatty",
-            "age" : "48",
-          },
-          "defCoordinator": {
-            "name": "Randy Bates",
-            "age" : "61",
-          },
-          "rival" : ["ND", "PSU"],
-          "rivalryNames" : {
-            "PSU": "Keystone Classic"
-          },
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2022",
-            "age" : "53",
-            "ratOff" : "82",
-            "cumulativePrestige" : "15",
-            "ratDef" : "78",
-            "homeState" : "Connecticut",
-            "ratPot" : "72",
-            "ratTalent" : "74",
-            "baselinePrestige" : "70",
-            "ratDiscipline" : "80",
-            "ratOvr" : "81",
-            "name" : "Pat Narduzzi",
-            "contractYear" : "0"
-          },
-          "name" : "Pitt",
-          "state" : "Pennsylvania"
-        },
        	{
           "abbreviation" : "WF",
           "prestige" : "68",
@@ -1137,10 +1102,11 @@
             "name": "Brad Lambert",
             "age": "56",
           },
-          "rival" : ["MD", "UNC", "NCST"],
+          "rival" : ["MD", "UNC", "NCST", "WF"],
           "rivalryNames" : {
             "UNC": "Battle of Tobacco Road",
-            "NCST": "Battle of Tobacco Road"
+            "NCST": "Battle of Tobacco Road",
+	    "WF": "Battle of Tobacco Road",
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -1163,28 +1129,28 @@
           "state" : "North Carolina"
         },
         {
-          "abbreviation" : "SC",
-          "prestige" : "77",
-          "hexColor" : "#73000A",
-          "rival" : "CLEM",
+          "abbreviation" : "DUKE",
+          "prestige" : "65",
+          "hexColor" : "#003087",
+          "rival" : ["UNC", "NCST", "WF"],
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "44",
-            "ratOff" : "78",
+            "age" : "45",
+            "ratOff" : "72",
             "cumulativePrestige" : "12",
             "ratDef" : "68",
-            "homeState" : "South Carolina",
-            "ratPot" : "62",
+            "homeState" : "New Jersey",
+            "ratPot" : "82",
             "ratTalent" : "67",
             "baselinePrestige" : "68",
             "ratDiscipline" : "70",
-            "ratOvr" : "71",
-            "name" : "Shane Beamer",
+            "ratOvr" : "67",
+            "name" : "Mike Elko",
             "contractYear" : "0"
           },
-          "name" : "South Carolina",
-          "state" : "South Carolina"
+          "name" : "Duke",
+          "state" : "North Carolina"
         },
         {
           "abbreviation" : "FSU",
@@ -1269,6 +1235,42 @@
           "name" : "Maryland",
           "state" : "Maryland"
         },
+	{
+	  "abbreviation" : "GT",
+          "rival" : ["CLEM", "UGA", "AUB", "VT"],
+          "rivalryNames" : {
+            "UGA": "Clean, Old-Fashioned Hate",
+            "VT": "Battle of the Techs",
+          },
+          "prestige" : "78",
+          "hexColor" : "#B3A369",
+          "offCoordinator": {
+            "name": "Chip Long",
+            "age": "39",
+          },
+          "defCoordinator": {
+            "name": "Andrew Thacker,
+            "age": "37",
+          },
+          "headCoach" : {
+            "contractLength" : "1",
+            "startYear" : "2022",
+            "age" : "44",
+            "ratOff" : "73",
+            "cumulativePrestige" : "0",
+            "ratDef" : "71",
+            "homeState" : "Alabama",
+            "ratPot" : "72",
+            "ratTalent" : "74",
+            "baselinePrestige" : "68",
+            "ratDiscipline" : "70",
+            "ratOvr" : "70",
+            "name" : "Dave Doeren",
+            "contractYear" : "0"
+          },
+          "name" : "Georgia Tech",
+          "state" : "Georgia"
+        },
         {
           "rival" : ["UNC", "SC", "WF"],
           "rivalryNames" : {
@@ -1286,7 +1288,6 @@
             "name": "Tony Gibson",
             "age": "49",
           },
-          "rival" : "UNC",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -1338,7 +1339,7 @@
 						"name": "Tommy Thigpen",
 						"contractYear": "1"
 					},
-          "rival" : ["NCST", "SC", "UVA"],
+          "rival" : ["NCST", "SC", "UVA", "ND"],
           "rivalryNames" : {
             "UVA": "The South's Oldest Rivalry",
             "SC": "Battle for the Carolinas",
@@ -1395,7 +1396,7 @@
 						"name": "Mike Elston",
 						"contractYear": "0"
 					},
-          "rival" : ["PSU", "USC", "STAN", "OSU", "UM", "PUR", "IOWA", "MSU", "PITT", "BC", "NAVY", "ARMY", "NW", "MIA"],
+          "rival" : ["PSU", "USC", "STAN", "OSU", "UM", "PUR", "IOWA", "MSU", "PITT", "BC", "NAVY", "ARMY", "NW", "MIA", "UNC"],
           "rivalryNames" : {
             "MSU": "Battle for the Megaphone",
             "PUR": "Battle for the Shillelagh Trophy",
@@ -2357,7 +2358,7 @@
       "confTeams" : [
         {
           "abbreviation" : "WVU",
-          "prestige" : "75",
+          "prestige" : "78",
           "hexColor" : "#EAAA00",
           "offCoordinator": {
             "name": "Gerad Parker",
@@ -2431,7 +2432,7 @@
         },
         {
           "abbreviation" : "LOU",
-          "prestige" : "66",
+          "prestige" : "69",
           "hexColor" : "#AD0000",
           "rival" : ["TU", "KTY", "CIN", "MEM", "WVU", "UK"],
           "rivalryNames" : {
@@ -2459,7 +2460,7 @@
         },
         {
           "abbreviation" : "SYR",
-          "prestige" : "61",
+          "prestige" : "64",
           "hexColor" : "#F76900",
           "rival" : "WVU",
           "rivalryNames" : {
@@ -2486,7 +2487,7 @@
         },
         {
           "abbreviation" : "RUT",
-          "prestige" : "63",
+          "prestige" : "65",
           "hexColor" : "#CC0033",
           "rival" : "TEM",
           "headCoach" : {
@@ -2510,7 +2511,7 @@
         },
 	 {
           "abbreviation" : "MIA",
-          "prestige" : "84",
+          "prestige" : "86",
           "hexColor" : "#005030",
           "offCoordinator": {
 						"contractLength": "7",
@@ -2567,7 +2568,7 @@
         },
         {
           "abbreviation" : "TEM",
-          "prestige" : "48",
+          "prestige" : "50",
           "hexColor" : "#9D2235",
           "rival" : "RUT",
           "headCoach" : {
@@ -2591,7 +2592,7 @@
         },
         {
           "abbreviation" : "CONN",
-          "prestige" : "44",
+          "prestige" : "48",
           "hexColor" : "#000E2F",
           "rival" : "BC",
           "headCoach" : {
@@ -2615,7 +2616,7 @@
         },
         {
           "abbreviation" : "BC",
-          "prestige" : "57",
+          "prestige" : "68",
           "hexColor" : "#8a100b",
           "rival" : "UCONN",
           "headCoach" : {
@@ -2639,7 +2640,7 @@
         },
         {
           "abbreviation" : "PITT",
-          "prestige" : "78",
+          "prestige" : "77",
           "hexColor" : "#003594",
           "offCoordinator": {
             "name": "Chris Beatty",
@@ -2674,7 +2675,7 @@
         },
       ],
       "confFullName" : "Big East",
-      "confPrestige" : "32",
+      "confPrestige" : "62",
       "confName" : "EAST"
     },
     {
