@@ -2975,76 +2975,55 @@
           "state" : "Hawaii"
         },
         {
-          "abbreviation" : "UNM",
-          "prestige" : "41",
-          "hexColor" : "#ba0c2f",
-          "rival" : "NMST",
+          "abbreviation" : "LAT",
+          "prestige" : "36",
+          "hexColor" : "#003087",
+          "rival" : "USM",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "5",
+            "startYear" : "2022",
+            "age" : "56",
+            "ratOff" : "60",
+            "cumulativePrestige" : "0",
+            "ratDef" : "55",
+            "homeState" : "Connecticut",
+            "ratPot" : "60",
+            "ratTalent" : "60",
+            "baselinePrestige" : "48",
+            "ratDiscipline" : "71",
+            "ratOvr" : "70",
+            "name" : "Skip Holtz",
+            "contractYear" : "0"
+          },
+          "name" : "Louisiana Tech",
+          "state" : "Louisiana"
+        },
+        {
+          "abbreviation" : "ID",
+          "prestige" : "45",
+          "hexColor" : "#F1B300",
+          "rival" : ["BOI", "WSU"],
+          "rivalryNames" : {
+            "WSU" : "Battle of the Palouse",
+          },
+          "headCoach" : {
+            "contractLength" : "5",
             "startYear" : "2022",
             "age" : "45",
-            "ratOff" : "57",
+            "ratOff" : "67",
             "cumulativePrestige" : "0",
-            "ratDef" : "66",
-            "homeState" : "New Mexico",
-            "ratPot" : "62",
-            "ratTalent" : "63",
-            "baselinePrestige" : "40",
-            "ratDiscipline" : "76",
-            "ratOvr" : "63",
-            "name" : "Danny Gonzales",
-            "contractYear" : "0"
-          },
-          "name" : "New Mexico",
-          "state" : "New Mexico"
-        },
-        {
-          "abbreviation" : "CSU",
-          "prestige" : "52",
-          "hexColor" : "#1E4D2B",
-          "rival" : "CU",
-          "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2022",
-            "age" : "58",
-            "ratOff" : "74",
-            "cumulativePrestige" : "0",
-            "ratDef" : "68",
+            "ratDef" : "60",
             "homeState" : "Wisconsin",
-            "ratPot" : "65",
-            "ratTalent" : "76",
-            "baselinePrestige" : "54",
-            "ratDiscipline" : "72",
-            "ratOvr" : "55",
-            "name" : "Jay Norvell",
+            "ratPot" : "67",
+            "ratTalent" : "66",
+            "baselinePrestige" : "40",
+            "ratDiscipline" : "74",
+            "ratOvr" : "66",
+            "name" : "Jason Eck",
             "contractYear" : "0"
           },
-          "name" : "Colorado State",
-          "state" : "Colorado"
-        },
-        {
-          "abbreviation" : "UTSA",
-          "prestige" : "52",
-          "hexColor" : "#F15A22",
-          "rival" : "RICE",
-          "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2022",
-            "age" : "53",
-            "ratOff" : "71",
-            "cumulativePrestige" : "8",
-            "ratDef" : "63",
-            "homeState" : "Texas",
-            "ratPot" : "68",
-            "ratTalent" : "71",
-            "baselinePrestige" : "50",
-            "ratDiscipline" : "75",
-            "ratOvr" : "69",
-            "name" : "Brock Spack",
-            "contractYear" : "0"
-          },
-          "name" : "UTSA",
-          "state" : "Texas"
+          "name" : "Idaho",
+          "state" : "Idaho"
         },
         {
           "abbreviation" : "RICE",
@@ -3071,28 +3050,52 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "UNT",
-          "prestige" : "41",
-          "hexColor" : "#00853E",
-          "rival" : "UTEP",
+          "abbreviation" : "FRES",
+          "prestige" : "55",
+          "hexColor" : "#C41230",
+          "rival" : "SDSU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2022",
-            "age" : "43",
-            "ratOff" : "69",
+            "age" : "60",
+            "ratOff" : "74",
             "cumulativePrestige" : "0",
-            "ratDef" : "60",
-            "homeState" : "Oklahoma",
-            "ratPot" : "77",
-            "ratTalent" : "66",
-            "baselinePrestige" : "40",
-            "ratDiscipline" : "74",
-            "ratOvr" : "66",
-            "name" : "Seth Littrell",
+            "ratDef" : "64",
+            "homeState" : "California",
+            "ratPot" : "73",
+            "ratTalent" : "67",
+            "baselinePrestige" : "49",
+            "ratDiscipline" : "70",
+            "ratOvr" : "68",
+            "name" : "Jeff Tedford",
             "contractYear" : "0"
           },
-          "name" : "North Texas",
-          "state" : "Texas"
+          "name" : "Fresno State",
+          "state" : "California"
+        },
+        {
+          "abbreviation" : "SJSU",
+          "prestige" : "40",
+          "hexColor" : "#0055A2",
+          "rival" : "HI",
+          "headCoach" : {
+            "contractLength" : "5",
+            "startYear" : "2022",
+            "age" : "47",
+            "ratOff" : "69",
+            "cumulativePrestige" : "0",
+            "ratDef" : "58",
+            "homeState" : "California",
+            "ratPot" : "70",
+            "ratTalent" : "48",
+            "baselinePrestige" : "40",
+            "ratDiscipline" : "78",
+            "ratOvr" : "58",
+            "name" : "Brent Brennan",
+            "contractYear" : "0"
+          },
+          "name" : "San Jose State",
+          "state" : "California"
         },
         {
           "abbreviation" : "UTEP",
@@ -3299,28 +3302,28 @@
           "state" : "Utah"
         },
         {
-          "abbreviation" : "FRES",
-          "prestige" : "55",
-          "hexColor" : "#C41230",
-          "rival" : "SDSU",
+          "abbreviation" : "CSU",
+          "prestige" : "52",
+          "hexColor" : "#1E4D2B",
+          "rival" : "CU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2022",
-            "age" : "60",
+            "age" : "58",
             "ratOff" : "74",
             "cumulativePrestige" : "0",
-            "ratDef" : "64",
-            "homeState" : "California",
-            "ratPot" : "73",
-            "ratTalent" : "67",
-            "baselinePrestige" : "49",
-            "ratDiscipline" : "70",
-            "ratOvr" : "68",
-            "name" : "Jeff Tedford",
+            "ratDef" : "68",
+            "homeState" : "Wisconsin",
+            "ratPot" : "65",
+            "ratTalent" : "76",
+            "baselinePrestige" : "54",
+            "ratDiscipline" : "72",
+            "ratOvr" : "55",
+            "name" : "Jay Norvell",
             "contractYear" : "0"
           },
-          "name" : "Fresno State",
-          "state" : "California"
+          "name" : "Colorado State",
+          "state" : "Colorado"
         },
         {
           "abbreviation" : "USU",
@@ -3371,6 +3374,30 @@
           "state" : "Wyoming"
         },
         {
+          "abbreviation" : "UNM",
+          "prestige" : "41",
+          "hexColor" : "#ba0c2f",
+          "rival" : "NMST",
+          "headCoach" : {
+            "contractLength" : "3",
+            "startYear" : "2022",
+            "age" : "45",
+            "ratOff" : "57",
+            "cumulativePrestige" : "0",
+            "ratDef" : "66",
+            "homeState" : "New Mexico",
+            "ratPot" : "62",
+            "ratTalent" : "63",
+            "baselinePrestige" : "40",
+            "ratDiscipline" : "76",
+            "ratOvr" : "63",
+            "name" : "Danny Gonzales",
+            "contractYear" : "0"
+          },
+          "name" : "New Mexico",
+          "state" : "New Mexico"
+        },
+        {
           "abbreviation" : "SDSU",
           "prestige" : "56",
           "hexColor" : "#A6192E",
@@ -3392,30 +3419,6 @@
             "contractYear" : "0"
           },
           "name" : "San Diego State",
-          "state" : "California"
-        },
-        {
-          "abbreviation" : "SJSU",
-          "prestige" : "40",
-          "hexColor" : "#0055A2",
-          "rival" : "HI",
-          "headCoach" : {
-            "contractLength" : "5",
-            "startYear" : "2022",
-            "age" : "47",
-            "ratOff" : "69",
-            "cumulativePrestige" : "0",
-            "ratDef" : "58",
-            "homeState" : "California",
-            "ratPot" : "70",
-            "ratTalent" : "48",
-            "baselinePrestige" : "40",
-            "ratDiscipline" : "78",
-            "ratOvr" : "58",
-            "name" : "Brent Brennan",
-            "contractYear" : "0"
-          },
-          "name" : "San Jose State",
           "state" : "California"
         },
         {
@@ -3720,6 +3723,54 @@
           "name" : "UAB",
           "state" : "Alabama"
         },
+	{
+          "abbreviation" : "UTSA",
+          "prestige" : "52",
+          "hexColor" : "#F15A22",
+          "rival" : "RICE",
+          "headCoach" : {
+            "contractLength" : "4",
+            "startYear" : "2022",
+            "age" : "53",
+            "ratOff" : "71",
+            "cumulativePrestige" : "8",
+            "ratDef" : "63",
+            "homeState" : "Texas",
+            "ratPot" : "68",
+            "ratTalent" : "71",
+            "baselinePrestige" : "50",
+            "ratDiscipline" : "75",
+            "ratOvr" : "69",
+            "name" : "Brock Spack",
+            "contractYear" : "0"
+          },
+          "name" : "UTSA",
+          "state" : "Texas"
+        },
+        {
+          "abbreviation" : "UNT",
+          "prestige" : "41",
+          "hexColor" : "#00853E",
+          "rival" : "UTEP",
+          "headCoach" : {
+            "contractLength" : "5",
+            "startYear" : "2022",
+            "age" : "43",
+            "ratOff" : "69",
+            "cumulativePrestige" : "0",
+            "ratDef" : "60",
+            "homeState" : "Oklahoma",
+            "ratPot" : "77",
+            "ratTalent" : "66",
+            "baselinePrestige" : "40",
+            "ratDiscipline" : "74",
+            "ratOvr" : "66",
+            "name" : "Seth Littrell",
+            "contractYear" : "0"
+          },
+          "name" : "North Texas",
+          "state" : "Texas"
+        },
         {
           "abbreviation" : "MTSU",
           "prestige" : "38",
@@ -3865,30 +3916,6 @@
           "state" : "Mississippi"
         },
         {
-          "abbreviation" : "CHAR",
-          "prestige" : "31",
-          "hexColor" : "#FF8200",
-          "rival" : "UAB",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2022",
-            "age" : "36",
-            "ratOff" : "45",
-            "cumulativePrestige" : "0",
-            "ratDef" : "49",
-            "homeState" : "Tennessee",
-            "ratPot" : "84",
-            "ratTalent" : "49",
-            "baselinePrestige" : "30",
-            "ratDiscipline" : "77",
-            "ratOvr" : "48",
-            "name" : "Will Healy",
-            "contractYear" : "0"
-          },
-          "name" : "Charlotte",
-          "state" : "North Carolina"
-        },
-        {
           "abbreviation" : "WKU",
           "prestige" : "37",
           "hexColor" : "#B01E24",
@@ -3911,30 +3938,6 @@
           },
           "name" : "Western Kentucky",
           "state" : "Kentucky"
-        },
-        {
-          "abbreviation" : "LAT",
-          "prestige" : "36",
-          "hexColor" : "#003087",
-          "rival" : "USM",
-          "headCoach" : {
-            "contractLength" : "5",
-            "startYear" : "2022",
-            "age" : "56",
-            "ratOff" : "60",
-            "cumulativePrestige" : "0",
-            "ratDef" : "55",
-            "homeState" : "Connecticut",
-            "ratPot" : "60",
-            "ratTalent" : "60",
-            "baselinePrestige" : "48",
-            "ratDiscipline" : "71",
-            "ratOvr" : "70",
-            "name" : "Skip Holtz",
-            "contractYear" : "0"
-          },
-          "name" : "Louisiana Tech",
-          "state" : "Louisiana"
         }
       ],
       "confFullName" : "C-USA",
@@ -4222,5 +4225,6 @@
   "Famous Idaho Potato Bowl",
   "New Orleans Bowl",
   "Armed Forces Bowl",
-  "Bahamas Bowl"]
+  "Bahamas Bowl",
+  "Quick Lane Bowl"]
 }
