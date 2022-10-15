@@ -1131,7 +1131,7 @@
         },
         {
           "abbreviation" : "DUKE",
-          "prestige" : "65",
+          "prestige" : "66",
           "hexColor" : "#003087",
           "rival" : ["UNC", "NCST", "WF"],
           "rivalryNames" : {
@@ -1160,7 +1160,7 @@
         },
         {
           "abbreviation" : "FSU",
-          "prestige" : "85",
+          "prestige" : "86",
           "hexColor" : "#782F40",
           "offCoordinator": {
 						"contractLength": "7",
@@ -1220,7 +1220,7 @@
           "hexColor" : "#E03A3E",
           "rival" : ["NAVY", "UVA"],
           "rivalryNames" : {
-            "NAVY": "Crab Bowl Classic"
+            "NAVY" : "Crab Bowl Classic"
           },
           "headCoach" : {
             "contractLength" : "6",
@@ -1376,6 +1376,11 @@
           "abbreviation" : "UVA",
           "prestige" : "73",
           "hexColor" : "#232D4B",
+          "rival" : ["UNC", "VT"],
+          "rivalryNames" : {
+            "UNC": "The South's Oldest Rivalry",
+            "VT": "Battle for the Commonwealth Trophy"
+          },
           "offCoordinator": {
             "name": "Desmond Kitchings",
             "age": "43",
@@ -1383,11 +1388,6 @@
           "defCoordinator": {
             "name": "Brian Bratton",
             "age": "39",
-          },
-          "rival" : ["UNC", "VT"],
-          "rivalryNames" : {
-            "UNC": "The South's Oldest Rivalry",
-            "VT": "Battle for the Commonwealth Trophy"
           },
           "headCoach" : {
             "contractLength" : "8",
@@ -2440,7 +2440,7 @@
         },
         {
           "abbreviation" : "LOU",
-          "prestige" : "70",
+          "prestige" : "69",
           "hexColor" : "#AD0000",
           "rival" : ["CIN", "MEM", "WVU"],
           "rivalryNames" : {
@@ -2467,7 +2467,7 @@
         },
         {
           "abbreviation" : "SYR",
-          "prestige" : "67",
+          "prestige" : "64",
           "hexColor" : "#F76900",
           "rival" : "WVU",
           "rivalryNames" : {
@@ -2494,7 +2494,7 @@
         },
         {
           "abbreviation" : "RUT",
-          "prestige" : "67",
+          "prestige" : "65",
           "hexColor" : "#CC0033",
           "rival" : "TEM",
           "headCoach" : {
@@ -2623,7 +2623,7 @@
         },
         {
           "abbreviation" : "BC",
-          "prestige" : "74",
+          "prestige" : "68",
           "hexColor" : "#8a100b",
           "rival" : "CONN",
           "headCoach" : {
@@ -4223,5 +4223,6 @@
   "Famous Idaho Potato Bowl",
   "New Orleans Bowl",
   "Armed Forces Bowl",
-  "Bahamas Bowl"]
+  "Bahamas Bowl",
+  "Quick Lane Bowl"]
 }
