@@ -1068,9 +1068,9 @@
 						"name": "Wes Goodwin",
 						"contractYear": "0"
 					},
-          "rival" : "SC",
+          "rival" : ["NCST", "UGA", "FSU", "ALA"],
           "rivalryNames" : {
-            "SC": "Battle of the Palmetto State",
+            "NCST": "Textile Bowl",
           },
           "headCoach" : {
             "contractLength" : "7",
