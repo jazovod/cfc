@@ -92,9 +92,10 @@
 						"name": "Will Muschamp",
 						"contractYear": "0"
 					},
-          "rival" : "UF",
+          "rival" : ["UF", "GT"],
           "rivalryNames" : {
-            "FLA": "World's Largest Cocktail Party",
+            "UF": "World's Largest Cocktail Party",
+	    "GT": "Clean, Old-Fashioned Hate"
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -204,10 +205,9 @@
 						"name": "Tim Banks",
 						"contractYear": "0"
 					},
-          "rival" : ["ALA", "UK"],
+          "rival" : "ALA",
           "rivalryNames" : {
             "ALA": "3rd Saturday of October",
-            "UK": "Battle for the Beer Barrel"
           },
           "headCoach" : {
             "contractLength" : "7",
@@ -562,7 +562,7 @@
           "offCoordinator": {
 						"contractLength": "7",
 						"startYear": "2022",
-						"age": "37",
+						"age": "36",
 						"cumulativePrestige": "0",
 						"homeState": "Massachusetts",
 						"ratPot": "76",
@@ -570,21 +570,21 @@
 						"ratTalent": "82",
 						"baselinePrestige": "80",
 						"coachingAbility": "79",
-						"name": "Josh Gattis",
+						"name": "Sherrone Moore",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
 						"contractLength": "7",
 						"startYear": "2022",
-						"age": "63",
+						"age": "39",
 						"cumulativePrestige": "0",
 						"homeState": "Wyoming",
 						"ratPot": "67",
 						"hometown": "Cheyenne",
 						"ratTalent": "78",
 						"baselinePrestige": "80",
-						"coachingAbility": "82",
-						"name": "Mike MacDonald",
+						"coachingAbility": "80",
+						"name": "Jesse Minter",
 						"contractYear": "0"
 					},
           "rival" : ["OSU", "ND", "MSU", "MIN"],
@@ -614,7 +614,7 @@
         },
         {
           "abbreviation" : "MSU",
-          "prestige" : "84",
+          "prestige" : "81",
           "hexColor" : "#18453B",
           "offCoordinator": {
 						"contractLength": "6",
@@ -726,7 +726,7 @@
         },
         {
           "abbreviation" : "PSU",
-          "prestige" : "88",
+          "prestige" : "87",
           "hexColor" : "#001E44",
           "offCoordinator": {
 						"contractLength": "5",
@@ -941,7 +941,7 @@
 						"name": "Jim O'Neil",
 						"contractYear": "1"
 					},
-          "rival" : ["ILL"],
+          "rival" : "ILL",
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2022",
@@ -1067,9 +1067,9 @@
 						"name": "Wes Goodwin",
 						"contractYear": "0"
 					},
-          "rival" : "SC",
+          "rival" : ["NCST", "UGA", "FSU", "ALA"],
           "rivalryNames" : {
-            "SC": "Battle of the Palmetto State",
+            "NCST": "Textile Bowl",
           },
           "headCoach" : {
             "contractLength" : "7",
@@ -1102,10 +1102,11 @@
             "name": "Brad Lambert",
             "age": "56",
           },
-          "rival" : ["MD", "UNC", "NCST", "WF"],
+          "rival" : ["UNC", "NCST", "WF"],
           "rivalryNames" : {
             "UNC": "Battle of Tobacco Road",
-            "NCST": "Battle of Tobacco Road"
+            "NCST": "Battle of Tobacco Road",
+	    "DUKE": "Battle of Tobacco Road",
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -1132,24 +1133,29 @@
           "prestige" : "65",
           "hexColor" : "#003087",
           "rival" : ["UNC", "NCST", "WF"],
+          "rivalryNames" : {
+            "UNC": "Battle of Tobacco Road",
+            "NCST": "Battle of Tobacco Road",
+	    "WF": "Battle of Tobacco Road",
+          },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "44",
-            "ratOff" : "78",
+            "age" : "45",
+            "ratOff" : "72",
             "cumulativePrestige" : "12",
             "ratDef" : "68",
-            "homeState" : "South Carolina",
-            "ratPot" : "62",
+            "homeState" : "New Jersey",
+            "ratPot" : "82",
             "ratTalent" : "67",
             "baselinePrestige" : "68",
             "ratDiscipline" : "70",
-            "ratOvr" : "71",
-            "name" : "Shane Beamer",
+            "ratOvr" : "67",
+            "name" : "Mike Elko",
             "contractYear" : "0"
           },
-          "name" : "South Carolina",
-          "state" : "South Carolina"
+          "name" : "Duke",
+          "state" : "North Carolina"
         },
         {
           "abbreviation" : "FSU",
@@ -1183,7 +1189,7 @@
 						"name": "Randy Shannon",
 						"contractYear": "0"
 					},
-          "rival" : ["MIA", "UF"],
+          "rival" : ["MIA", "UF", "CLEM"],
           "rivalryNames" : {
             "UF": "Sunshine Showdown",
             "MIA": "Florida Cup",
@@ -1195,12 +1201,12 @@
             "ratOff" : "75",
             "cumulativePrestige" : "12",
             "ratDef" : "68",
-            "homeState" : "Kansas",
+            "homeState" : "Texas",
             "ratPot" : "75",
-            "ratTalent" : "67",
+            "ratTalent" : "77",
             "baselinePrestige" : "68",
             "ratDiscipline" : "70",
-            "ratOvr" : "70",
+            "ratOvr" : "73",
             "name" : "Mike Norvell",
             "contractYear" : "0"
           },
@@ -1211,7 +1217,7 @@
           "abbreviation" : "MD",
           "prestige" : "66",
           "hexColor" : "#E03A3E",
-          "rival" : ["NAVY", "WF"],
+          "rival" : ["NAVY"],
           "rivalryNames" : {
             "NAVY": "Crab Bowl Classic"
           },
@@ -1234,13 +1240,50 @@
           "name" : "Maryland",
           "state" : "Maryland"
         },
+	{
+	  "abbreviation" : "GT",
+          "rival" : ["CLEM", "UGA", "AUB", "VT"],
+          "rivalryNames" : {
+            "UGA": "Clean, Old-Fashioned Hate",
+            "VT": "Battle of the Techs",
+          },
+          "prestige" : "78",
+          "hexColor" : "#B3A369",
+          "offCoordinator": {
+            "name": "Chip Long",
+            "age": "39",
+          },
+          "defCoordinator": {
+            "name": "Andrew Thacker,
+            "age": "37",
+          },
+          "headCoach" : {
+            "contractLength" : "1",
+            "startYear" : "2022",
+            "age" : "44",
+            "ratOff" : "73",
+            "cumulativePrestige" : "0",
+            "ratDef" : "71",
+            "homeState" : "Alabama",
+            "ratPot" : "72",
+            "ratTalent" : "74",
+            "baselinePrestige" : "68",
+            "ratDiscipline" : "70",
+            "ratOvr" : "70",
+            "name" : "Brent Key",
+            "contractYear" : "0"
+          },
+          "name" : "Georgia Tech",
+          "state" : "Georgia"
+        },
         {
-          "rival" : ["UNC", "SC", "WF"],
+	  "abbreviation" : "NCST",
+          "rival" : ["UNC", "DUKE", "WF"],
           "rivalryNames" : {
             "UNC": "Battle of Tobacco Road",
-            "WF": "Battle of Tobacco Road",
+            "DUKE": "Battle of Tobacco Road",
+	    "WF": "Battle of Tobacco Road",
           },
-	  "abbreviation" : "NCST",
           "prestige" : "75",
           "hexColor" : "#CC0000",
           "offCoordinator": {
@@ -1251,7 +1294,6 @@
             "name": "Tony Gibson",
             "age": "49",
           },
-          "rival" : "UNC",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
@@ -1303,11 +1345,12 @@
 						"name": "Tommy Thigpen",
 						"contractYear": "1"
 					},
-          "rival" : ["NCST", "SC", "UVA", "ND"],
+          "rival" : ["NCST", "DUKE", "UVA", "ND", "WF"],
           "rivalryNames" : {
             "UVA": "The South's Oldest Rivalry",
-            "SC": "Battle for the Carolinas",
             "NCST": "Battle of Tobacco Road",
+            "DUKE": "Battle of Tobacco Road",
+	    "WF": "Battle of Tobacco Road",
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -1374,7 +1417,7 @@
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
-            "age" : "35",
+            "age" : "36",
             "ratOff" : "64",
             "cumulativePrestige" : "40",
             "ratDef" : "74",
@@ -1390,42 +1433,6 @@
           "name" : "Notre Dame",
           "state" : "Indiana"
         },
-        {
-          "abbreviation" : "UVA",
-          "prestige" : "73",
-          "hexColor" : "#232D4B",
-          "offCoordinator": {
-            "name": "Desmond Kitchings",
-            "age": "43",
-          },
-          "defCoordinator": {
-            "name": "Brian Bratton",
-            "age": "39",
-          },
-          "rival" : ["UNC", "VT"],
-          "rivalryNames" : {
-            "UNC": "The South's Oldest Rivalry",
-            "VT": "Battle for the Commonwealth Trophy"
-          },
-          "headCoach" : {
-            "contractLength" : "8",
-            "startYear" : "2022",
-            "age" : "42",
-            "ratOff" : "73",
-            "cumulativePrestige" : "20",
-            "ratDef" : "65",
-            "homeState" : "Utah",
-            "ratPot" : "69",
-            "ratTalent" : "74",
-            "baselinePrestige" : "65",
-            "ratDiscipline" : "75",
-            "ratOvr" : "71",
-            "name" : "Tony Elliott",
-            "contractYear" : "0"
-          },
-          "name" : "Virginia",
-          "state" : "Virginia"
-        }
       ],
       "confFullName" : "ACC",
       "confPrestige" : "91",
@@ -2332,10 +2339,10 @@
             "name": "Ilaisa Tuiaki",
             "age": "40",
           },
-          "rival" : ["VT", "CUSE", "PITT", "MRSH"],
+          "rival" : ["VT", "SYR", "PITT", "MRSH"],
           "rivalryNames" : {
             "MRSH": "Friends of Coal Bowl",
-            "CUSE": "Battle for the Schwartzwalder Trophy",
+            "SYR": "Battle for the Schwartzwalder Trophy",
             "VT": "Battle for the Black Diamond Trophy",
             "PITT": "Backyard Brawl",
           },
@@ -2398,10 +2405,9 @@
           "abbreviation" : "LOU",
           "prestige" : "69",
           "hexColor" : "#AD0000",
-          "rival" : ["TU", "KTY", "CIN", "MEM", "WVU", "UK"],
+          "rival" : ["CIN", "MEM", "WVU"],
           "rivalryNames" : {
             "CIN": "Battle for the Keg of Nails",
-            "UK": "Governor's Cup"
           },
           "headCoach" : {
             "contractLength" : "6",
@@ -2482,13 +2488,13 @@
 						"startYear": "2022",
 						"age": "38",
 						"cumulativePrestige": "0",
-						"homeState": "Texas",
+						"homeState": "North Carolina",
 						"ratPot": "76",
-						"hometown": "Pilot Point",
+						"hometown": "Durham",
 						"ratTalent": "75",
 						"baselinePrestige": "70",
-						"coachingAbility": "73",
-						"name": "Bryan McClendon",
+						"coachingAbility": "77",
+						"name": "Josh Gattis",
 						"contractYear": "0"
 					},
 					"defCoordinator": {
@@ -2501,7 +2507,7 @@
 						"hometown": "Homestead",
 						"ratTalent": "69",
 						"baselinePrestige": "73",
-						"coachingAbility": "77",
+						"coachingAbility": "75",
 						"name": "Joe Salavea",
 						"contractYear": "0"
 					},
@@ -2616,7 +2622,8 @@
           },
           "rival" : ["ND", "PSU"],
           "rivalryNames" : {
-            "PSU": "Keystone Classic"
+	    "PITT" : "Backyard Brawl",
+            "PSU" : "Keystone Classic"
           },
           "headCoach" : {
             "contractLength" : "6",
@@ -2636,7 +2643,7 @@
           },
           "name" : "Pitt",
           "state" : "Pennsylvania"
-        },
+        }
       ],
       "confFullName" : "Big East",
       "confPrestige" : "62",
@@ -3750,7 +3757,7 @@
           "state" : "Florida"
         },
         {
-          "abbreviation" : "MAR",
+          "abbreviation" : "MRSH",
           "prestige" : "37",
           "hexColor" : "#00B140",
           "rival" : "ODU",
