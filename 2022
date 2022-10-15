@@ -1217,7 +1217,7 @@
           "abbreviation" : "MD",
           "prestige" : "66",
           "hexColor" : "#E03A3E",
-          "rival" : ["NAVY"],
+          "rival" : ["NAVY", "UVA"],
           "rivalryNames" : {
             "NAVY": "Crab Bowl Classic"
           },
@@ -1242,13 +1242,13 @@
         },
 	{
 	  "abbreviation" : "GT",
+          "prestige" : "78",
+          "hexColor" : "#B3A369",
           "rival" : ["CLEM", "UGA", "AUB", "VT"],
           "rivalryNames" : {
             "UGA": "Clean, Old-Fashioned Hate",
             "VT": "Battle of the Techs",
           },
-          "prestige" : "78",
-          "hexColor" : "#B3A369",
           "offCoordinator": {
             "name": "Chip Long",
             "age": "39",
@@ -1258,7 +1258,7 @@
             "age": "37",
           },
           "headCoach" : {
-            "contractLength" : "1",
+            "contractLength" : "3",
             "startYear" : "2022",
             "age" : "44",
             "ratOff" : "73",
@@ -1278,14 +1278,14 @@
         },
         {
 	  "abbreviation" : "NCST",
+          "prestige" : "75",
+          "hexColor" : "#CC0000",
           "rival" : ["UNC", "DUKE", "WF"],
           "rivalryNames" : {
             "UNC": "Battle of Tobacco Road",
             "DUKE": "Battle of Tobacco Road",
 	    "WF": "Battle of Tobacco Road",
           },
-          "prestige" : "75",
-          "hexColor" : "#CC0000",
           "offCoordinator": {
             "name": "Tim Beck",
             "age": "55",
@@ -1371,6 +1371,42 @@
           "name" : "UNC",
           "state" : "North Carolina"
         },
+	{
+          "abbreviation" : "UVA",
+          "prestige" : "73",
+          "hexColor" : "#232D4B",
+          "offCoordinator": {
+            "name": "Desmond Kitchings",
+            "age": "43",
+          },
+          "defCoordinator": {
+            "name": "Brian Bratton",
+            "age": "39",
+          },
+          "rival" : ["UNC", "VT"],
+          "rivalryNames" : {
+            "UNC": "The South's Oldest Rivalry",
+            "VT": "Battle for the Commonwealth Trophy"
+          },
+          "headCoach" : {
+            "contractLength" : "8",
+            "startYear" : "2022",
+            "age" : "42",
+            "ratOff" : "73",
+            "cumulativePrestige" : "20",
+            "ratDef" : "65",
+            "homeState" : "Utah",
+            "ratPot" : "69",
+            "ratTalent" : "74",
+            "baselinePrestige" : "65",
+            "ratDiscipline" : "75",
+            "ratOvr" : "71",
+            "name" : "Tony Elliott",
+            "contractYear" : "0"
+          },
+          "name" : "Virginia",
+          "state" : "Virginia"
+        },
         {
           "abbreviation" : "ND",
           "prestige" : "88",
@@ -1432,7 +1468,7 @@
           },
           "name" : "Notre Dame",
           "state" : "Indiana"
-        },
+        }
       ],
       "confFullName" : "ACC",
       "confPrestige" : "91",
@@ -2479,7 +2515,7 @@
           "name" : "Rutgers",
           "state" : "New Jersey"
         },
-	 {
+	{
           "abbreviation" : "MIA",
           "prestige" : "86",
           "hexColor" : "#005030",
@@ -2588,7 +2624,7 @@
           "abbreviation" : "BC",
           "prestige" : "68",
           "hexColor" : "#8a100b",
-          "rival" : "UCONN",
+          "rival" : "CONN",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2022",
