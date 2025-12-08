@@ -2630,63 +2630,6 @@
       "confPrestige" : "62",
       "confName" : "EAST"
     },
-	{
-          "abbreviation" : "PSU",
-          "prestige" : "87",
-          "hexColor" : "#001E44",
-          "offCoordinator": {
-						"contractLength": "5",
-						"startYear": "2025",
-						"age": "46",
-						"cumulativePrestige": "0",
-						"homeState": "North Carolina",
-						"ratPot": "52",
-						"hometown": "Maiden",
-						"ratTalent": "75",
-						"baselinePrestige": "80",
-						"coachingAbility": "78",
-						"name": "Mike Yurcich",
-						"contractYear": "0"
-					},
-					"defCoordinator": {
-						"contractLength": "7",
-						"startYear": "2025",
-						"age": "47",
-						"cumulativePrestige": "0",
-						"homeState": "Florida",
-						"ratPot": "66",
-						"hometown": "Miami",
-						"ratTalent": "84",
-						"baselinePrestige": "80",
-						"coachingAbility": "88",
-						"name": "Manny Diaz",
-						"contractYear": "0"
-					},
-          "rival" : ["ND", "USC", "STAN", "OSU", "MSU", "RUT", "PITT"],
-          "rivalryNames" : {
-            "MSU": "Battle for the Land Grant Trophy",
-            "MIN": "Battle for the Governor's Victory Bell",
-            "PITT": "Keystone Classic"
-          },
-          "headCoach" : {
-            "contractLength" : "8",
-            "startYear" : "2025",
-            "age" : "49",
-            "ratOff" : "79",
-            "cumulativePrestige" : "40",
-            "ratDef" : "72",
-            "homeState" : "Pennsylvania",
-            "ratPot" : "76",
-            "ratTalent" : "82",
-            "baselinePrestige" : "75",
-            "ratDiscipline" : "77",
-            "ratOvr" : "79",
-            "name" : "James Franklin",
-            "contractYear" : "0"
-          },
-          "name" : "Penn State",
-          "state" : "Pennsylvania"
-        },
     {
       "confTeams" : [
         {
