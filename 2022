@@ -38,7 +38,7 @@
           "rivalryNames" : {
             "AUB": "Iron Bowl",
             "TENN": "3rd Saturday of October",
-            "LSU": "Saban Bowl",
+            "LSU": "Saban Bowl"
           },
           "headCoach" : {
             "contractLength": "7",
@@ -272,7 +272,7 @@
           "headCoach" : {
             "contractLength" : "7",
             "startYear" : "2025",
-            "age" : 5060",
+            "age" : "50",
             "ratOff" : "89",
             "cumulativePrestige" : "0",
             "ratDef" : "75",
@@ -295,7 +295,7 @@
           "rival" : ["MSST", "LSU"],
           "rivalryNames" : {
             "LSU": "Magnolia Bowl",
-            "MSST": "Egg Bowl",
+            "MSST": "Egg Bowl"
           },
           "offCoordinator": {
 						"contractlength": "4",
@@ -948,16 +948,16 @@
           "offCoordinator": {
             "name": "Mike Shanahan",
 			"coachingAbility": "80",
-            "age" : "46",
+            "age" : "46"
           },
           "defCoordinator": {
             "name": "Bryant Haines",
-            "age" : "40",
+            "age" : "40"
           },
           "rival" : ["ND", "IU"],
           "rivalryNames" : {
             "ND": "Battle for the Shillelagh Trophy",
-			"IU": "Old Oaken Bucket",
+			"IU": "Old Oaken Bucket"
           },
           "headCoach" : {
             "contractLength" : "7",
