@@ -528,7 +528,7 @@
           "rival" : ["UT", "ARK"],
           "rivalryNames" : {
             "UT": "Lone Star Showdown",
-            "ARK": "Southwest Classic",
+            "ARK": "Southwest Classic"
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -977,12 +977,7 @@
           },
           "name" : "Indiana",
           "state" : "Indiana"
-        }
-      ],
-      "confFullName" : "Big Ten",
-      "confPrestige" : "93",
-      "confName" : "B1G"
-    },
+        },
         {
           "abbreviation" : "ILL",
           "prestige" : "76",
